@@ -6,7 +6,7 @@ languageName = "En"
 paginate = "3"
 summaryLength = "15"
 theme = "bigspring"
-title = "Bullion Site"
+title = "Bigspring Hugo"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer_left]]
