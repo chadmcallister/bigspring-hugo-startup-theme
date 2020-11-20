@@ -13,7 +13,7 @@ feature:
   enable: true
   title: Marketplaces
   feature_item:
-  - name: Wine, Spirits, and Beverages
+  - name: wine, spirits, and beverages
     icon: ti-pulse
     content: OrderMatch UniverseTM is an enterprise class software platform that can
       quickly grow an electronic marketplace in the wine industry and manage the resulting
