@@ -6,7 +6,7 @@ banner:
     operation of an online marketplace. '
   button:
     enable: true
-    label: Contact With Us
+    label: go to marketplaces
     link: "#"
 feature:
   enable: true
