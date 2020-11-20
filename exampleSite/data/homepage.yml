@@ -32,7 +32,7 @@ feature:
   - name: firearms & ammo
     icon: ti-headphone-alt
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Cloud Support
+  - name: collectibles & other
     icon: ti-cloud-up
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
 service:
