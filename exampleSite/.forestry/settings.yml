@@ -10,19 +10,6 @@ sections:
   path: exampleSite/data/homepage.yml
   label: Homepage Data
 - type: heading
-  label: Blog Post
-- type: document
-  path: exampleSite/content/blog/_index.md
-  label: Blog Page
-- type: directory
-  path: exampleSite/content/blog
-  label: Blog Post
-  create: documents
-  match: "**/*"
-  exclude: _index.md
-  templates:
-  - post
-- type: heading
   label: Others Page
 - type: document
   path: exampleSite/content/faq/_index.md
