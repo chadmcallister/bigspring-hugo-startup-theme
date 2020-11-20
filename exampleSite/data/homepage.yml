@@ -8,7 +8,7 @@ banner:
   button:
     enable: true
     label: Contact With Us
-    link: "#"
+    link: https://raw.githubusercontent.com/chadmcallister/bigspring-hugo-startup-theme/master/theme.toml
 feature:
   enable: true
   title: Marketplaces
