@@ -13,9 +13,13 @@ feature:
   enable: true
   title: Something You Need To Know
   feature_item:
-  - name: Clean Code
+  - name: Wine, Spirits, and Beverages
     icon: ti-pulse
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: OrderMatch UniverseTM is an enterprise class software platform that can
+      quickly grow an electronic marketplace in the wine industry and manage the resulting
+      supply chains.  It can be used for wine investment, wine production and sales,
+      and for acquiring specialized wine equipment.  Transactions are anyone-to-anyone
+      and one-to-many allowing full access to the marketplace by any size participant.
   - name: Object Oriented
     icon: ti-package
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
