@@ -6,7 +6,7 @@ banner:
     operation of an online marketplace. '
   button:
     enable: true
-    label: go to marketplaces
+    label: what is your market?
     link: "#"
 feature:
   enable: true
