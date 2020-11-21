@@ -19,16 +19,16 @@ feature:
     icon: ti-package
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: fine diamonds and gemstones
-    icon: ti-alarm-clock
+    icon: far fa-gem
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: medical & bio
-    icon: ti-credit-card
+    icon: fas fa-briefcase-medical
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: firearms & ammo
     icon: ti-headphone-alt
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: collectibles & other
-    icon: ti-cloud-up
+    icon: fas fa-archive
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
 service:
   enable: true
