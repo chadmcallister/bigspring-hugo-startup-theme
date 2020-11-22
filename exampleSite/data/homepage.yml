@@ -33,7 +33,7 @@ feature:
 service:
   enable: true
   service_item:
-  - title: 'Competitive Advantage - '
+  - title: 'Competitive Advantage '
     images:
     - images/service-1.png
     - images/service-2.png
