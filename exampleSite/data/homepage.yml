@@ -33,7 +33,9 @@ feature:
 service:
   enable: true
   service_item:
-  - title: It is the most advanced digital marketing and it company.
+  - title: Competitive Advantage - Electronic Marketplace platform and patented business
+      model can be used in multiple physical industries including metals, fine wine
+      and spirits, collectibles, video games, luxury goods, and medical supplies.
     images:
     - images/service-1.png
     - images/service-2.png
