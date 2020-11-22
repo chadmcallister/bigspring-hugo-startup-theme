@@ -45,7 +45,7 @@ service:
       enable: true
       label: Check it out
       link: "#"
-  - title: Trust and Privacy -
+  - title: Trust and Privacy
     images:
     - images/service-1.png
     content: Centralized quality control, authentication of products, and electronic
