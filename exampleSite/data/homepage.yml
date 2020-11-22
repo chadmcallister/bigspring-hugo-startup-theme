@@ -16,7 +16,7 @@ feature:
     icon: fas fa-wine-glass-alt
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: precious metals & industrial metals
-    icon: ti-package
+    icon: ti-metal
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: fine diamonds and gemstones
     icon: far fa-gem
