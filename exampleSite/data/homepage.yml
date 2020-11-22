@@ -55,7 +55,7 @@ service:
       enable: true
       label: Check it out
       link: "#"
-  - title: 'Operational Excellence - '
+  - title: Operational Excellence
     images:
     - images/service-2.png
     content: "•\t24/7 self-directed and private transactions\n\n•\tHigh-quality, consistent,
