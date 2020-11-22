@@ -33,18 +33,14 @@ feature:
 service:
   enable: true
   service_item:
-  - title: Competitive Advantage - Electronic Marketplace platform and patented business
-      model can be used in multiple physical industries including metals, fine wine
-      and spirits, collectibles, video games, luxury goods, and medical supplies.
+  - title: 'Competitive Advantage - '
     images:
     - images/service-1.png
     - images/service-2.png
     - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: Electronic Marketplace platform and patented business model can be used
+      in multiple physical industries including metals, fine wine and spirits, collectibles,
+      video games, luxury goods, and medical supplies.
     button:
       enable: true
       label: Check it out
