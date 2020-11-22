@@ -38,7 +38,7 @@ service:
     - images/service-1.png
     - images/service-2.png
     - images/service-3.png
-    content: Electronic Marketplace platform and patented business model can be used
+    content: Electronic marketplace platform and patented business model can be used
       in multiple physical industries including metals, fine wine and spirits, collectibles,
       video games, luxury goods, and medical supplies.
     button:
