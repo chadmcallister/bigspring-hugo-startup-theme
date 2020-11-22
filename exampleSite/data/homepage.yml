@@ -45,14 +45,12 @@ service:
       enable: true
       label: Check it out
       link: "#"
-  - title: It is a privately owned Information and cyber security company
+  - title: Trust and Privacy -
     images:
     - images/service-1.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: Centralized quality control, authentication of products, and electronic
+      matching of orders from anyone-to-anyone provide pricing transparency, privacy,
+      and one-to-many efficiency.
     button:
       enable: true
       label: Check it out
