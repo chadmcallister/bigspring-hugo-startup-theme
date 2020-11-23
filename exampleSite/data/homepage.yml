@@ -58,10 +58,11 @@ service:
   - title: Operational Excellence
     images:
     - images/service-2.png
-    content: "•\t24/7 self-directed and private transactions\n\n•\tHigh-quality, consistent,
-      and repeatable transaction experiences\n\n•\tThird-party secure access allows
-      outsourcing of operational support activities\n\n•\tCustomizable work-flows
-      for accuracy\n"
+    content: '24/7 self-directed and private transactions provide users with high-quality,
+      consistent, and repeatable transaction experiences. Third-party portal access
+      allows secure outsourcing of operational support activities.
+
+'
     button:
       enable: true
       label: Check it out
