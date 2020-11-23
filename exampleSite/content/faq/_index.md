@@ -1,6 +1,6 @@
 ---
 title: Marketplace
-subtitle: ''
+subtitle: An electronic marketplace blah blah blah ur ner ner.
 description: This is meta description
 
 ---
