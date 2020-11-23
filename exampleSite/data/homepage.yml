@@ -70,7 +70,7 @@ service:
       enable: true
       label: Check it out
       link: "#"
-  - title: Launch a marketplace quickly
+  - title: Accelerate your marketplace launch now!
     images:
     - images/service-3.png
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
