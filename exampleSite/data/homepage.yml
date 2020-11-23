@@ -67,10 +67,6 @@ service:
       enable: true
       label: Check it out
       link: "#"
-  - title: Limited upfront investment
-    images: ''
-    content: ''
-    button: ''
   - title: Accelerate your marketplace launch now!
     images:
     - images/service-3.png
