@@ -23,16 +23,16 @@ name = "About Us"
 weight = 3
 [[menu.footer_middle]]
 URL = "#"
-name = "Features"
+name = "Marketplaces"
 weight = 1
 [[menu.footer_middle]]
 URL = "#"
 name = "Platform"
-weight = 2
+weight = 3
 [[menu.footer_middle]]
 URL = "pricing"
 name = "Pricing"
-weight = 3
+weight = 2
 [[menu.footer_right]]
 URL = "faq"
 name = "FAQ"
