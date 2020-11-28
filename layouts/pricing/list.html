@@ -68,6 +68,20 @@
   </div>
 </section>
 
+{{ if .Params.text.enable }}
+{{ with .Params.text }}
+<section class="banner">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 mx-auto text-center">
+        <p class="mb-4 h3">{{ .content | markdownify }}</p>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+
 <!-- call to action -->
 {{ if .Params.call_to_action.enable }}
 {{ with .Params.call_to_action }}
@@ -92,20 +106,6 @@
 {{ end }}
 {{ end }}
 <!-- /call to action -->
-
-{{ if .Params.text.enable }}
-{{ with .Params.text }}
-<section class="banner">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-10 mx-auto text-center">
-        <p class="mb-4">{{ .content | markdownify }}</p>
-      </div>
-    </div>
-  </div>
-</section>
-{{ end }}
-{{ end }}
 
 
 {{ end }}
