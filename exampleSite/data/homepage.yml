@@ -28,7 +28,7 @@ feature:
   - name: <a href="/features/firearm-ammo/">Firearms & Ammo</a>
     icon: fas fa-shield-alt
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: collectibles & other
+  - name: <a href="/features/collectibles-other/">Collectibles & Other</a>
     icon: fas fa-archive
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
 service:
