@@ -19,7 +19,7 @@ feature:
       Industrial Metals<a>
     icon: ti-package
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: fine diamonds and gemstones
+  - name: <a href="/features/collectibles-other/">fine diamonds and gemstones</a>
     icon: far fa-gem
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: medical & bio
