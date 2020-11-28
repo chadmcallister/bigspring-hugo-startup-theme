@@ -13,6 +13,7 @@ fields:
   label: meta description
 pages:
 - exampleSite/content/features/fine-diamonds-and-gemstones.md
+- exampleSite/content/features/firearms-ammo.md
 - exampleSite/content/features/marketplace.md
 - exampleSite/content/features/medical-bio.md
 - exampleSite/content/features/precious-metals-industrial-metals.md
