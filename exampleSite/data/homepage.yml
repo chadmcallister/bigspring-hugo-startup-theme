@@ -17,7 +17,7 @@ feature:
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: <a href="/features/precious-metals-industrial-metals/">Precious Metals &
       Industrial Metals<a>
-    icon: ti-package
+    icon: fas fa-coins
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: <a href="/features/fine-diamonds-and-gemstones/">fine diamonds and gemstones</a>
     icon: far fa-gem
