@@ -14,7 +14,8 @@ feature:
   feature_item:
   - name: wine, spirits, and beverages
     icon: fas fa-wine-glass-alt
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil <a
+      href="google.com">Clicl Me</a>
   - name: precious metals & industrial metals
     icon: ti-package
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
