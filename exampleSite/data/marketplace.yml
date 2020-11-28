@@ -18,7 +18,7 @@ marketplaces:
       Industrial Metals<a>
     icon: ti-package
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: <a href="/features/fine-diamonds-and-gemstones/">fine diamonds and gemstones</a>
+  - name: <a href="/features/fine-diamonds-and-gemstones/">Fine Diamonds and Gemstones</a>
     icon: far fa-gem
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: <a href="/features/medical-bio/">Medical & Bio</a>
