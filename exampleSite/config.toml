@@ -47,19 +47,19 @@ name = "Privacy Policy"
 weight = 3
 [[menu.main]]
 name = "About"
-weight = 3
+weight = 4
 [[menu.main]]
 URL = "marketplaces"
-name = "Marketplace"
+name = "Marketplaces"
 weight = 1
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 4
+weight = 5
 [[menu.main]]
 URL = "pricing"
 name = "Pricing"
-weight = 2
+weight = 3
 [params]
 author = "Themefisher"
 contact_form_action = "#"
