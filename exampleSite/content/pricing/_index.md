@@ -58,6 +58,6 @@ draft: true
 ---
 Our pricing concept is designed to ensure maximum success for your marketplace. We understand that many factors go into creating a viable marketplace. The more active and engage participants are, the more value is added to all other participants. Success in a marketplace has an exponential value.
 
-Therefore, we are looking for a strategic relationship to offer our software platform with limited upfront costs so you can dedicate normal capital requirements towards expanding and growing your marketplace quickly and successfully. In exchange, we can structure success-based fees on the premise that our proven platform will provide faster and greater value to all.
+Therefore, we are looking for strategic relationships to offer our software platform with limited upfront costs so you can dedicate normal capital requirements towards expanding and growing your marketplace quickly and successfully. In exchange, we can structure success-based fees on the premise that our proven platform will provide faster and greater value to all.
 
 Let us know what value you bring to a marketplace. Common attributes include: product validation and authentication, customer acquisition and support, manufacturer or distributor, etc.
