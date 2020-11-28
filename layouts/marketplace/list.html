@@ -1,0 +1,50 @@
+{{ define "main" }}
+{{ partial "page-header.html" . }}
+
+<!-- banner -->
+{{ with site.Data.homepage.banner }}
+<section class="banner">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 mx-auto text-center">
+        <h1 class="mb-3">{{ .title | markdownify }}</h1>
+        <p class="mb-4">{{ .content | markdownify }}</p>
+        {{ if .button.enable }}
+        {{ with .button }}
+        <div><a href="{{ .link | safeURL }}" class="btn btn-primary">{{ .label }}</a></div>
+        {{ end }}
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+<!-- /banner -->
+
+<!-- marketplaces -->
+{{ if site.Data.homepage.feature.enable }}
+{{ with site.Data.homepage.feature }}
+<section class="section bg-light">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-12 text-center">
+        <h2 class="section-title">{{ .title | markdownify }}</h2>
+      </div>
+      {{ range .feature_item }}
+      <div class="col-md-4 col-sm-6 mb-4">
+        <div class="feature-card text-center">
+          <i class="{{.icon}} mb-3"></i>
+          <h4 class="mb-2">{{ .name | markdownify }}</h4>
+          <p>{{ .content | markdownify }}</p>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- /marketplaces -->
+
+
+{{ end }}
