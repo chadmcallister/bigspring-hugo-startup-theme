@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: what is your market?
-    link: contact
+    link: marketplaces
 feature:
   enable: true
   title: Marketplaces
