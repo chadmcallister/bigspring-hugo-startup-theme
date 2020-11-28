@@ -93,4 +93,12 @@
 {{ end }}
 <!-- /call to action -->
 
+{{ if .Params.text.enable }}
+{{ with .Params.text }}
+<section class="section">
+  {{with .content }}<p class="mb-4">{{ . | markdownify }}</p>{{ end }}
+</section>
+{{ end }}
+{{ end }}
+
 {{ end }}
