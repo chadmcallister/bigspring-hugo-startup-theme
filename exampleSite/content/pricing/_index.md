@@ -4,8 +4,6 @@ subtitle: Let's create a pricing model that ensures maximum success!
 description: This is meta description
 basic:
   name: Basic Plan
-  price: "$49"
-  price_per: month
   info: Best For Small Individuals
   services:
   - Express Service
@@ -16,9 +14,7 @@ basic:
     label: Get started for free
     link: "#"
 professional:
-  name: Professional Plan
-  price: "$49"
-  price_per: month
+  name: Product Validator
   info: Best For Professionals
   services:
   - Express Service
@@ -31,8 +27,6 @@ professional:
     label: Get started for free
     link: "#"
 business:
-  name: Business Plan
-  price: "$49"
   price_per: month
   info: Best For Large Individuals
   services:
