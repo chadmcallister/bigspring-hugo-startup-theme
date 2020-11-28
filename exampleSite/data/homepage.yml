@@ -12,10 +12,9 @@ feature:
   enable: true
   title: Marketplaces
   feature_item:
-  - name: wine, spirits, and beverages
+  - name: <a href="/">wine, spirits, and beverages</a>
     icon: fas fa-wine-glass-alt
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil <a
-      href="google.com">Clicl Me</a>
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: precious metals & industrial metals
     icon: ti-package
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
