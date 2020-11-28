@@ -2,7 +2,7 @@
 {{ partial "page-header.html" . }}
 
 <!-- banner -->
-{{ with site.Data.homepage.banner }}
+{{ with site.Data.marketplace.banner }}
 <section class="banner">
   <div class="container">
     <div class="row">
@@ -22,8 +22,8 @@
 <!-- /banner -->
 
 <!-- marketplaces -->
-{{ if site.Data.homepage.feature.enable }}
-{{ with site.Data.homepage.feature }}
+{{ if site.Data.marketplace.feature.enable }}
+{{ with site.Data.marketplace.feature }}
 <section class="section bg-light">
   <div class="container">
     <div class="row justify-content-center">

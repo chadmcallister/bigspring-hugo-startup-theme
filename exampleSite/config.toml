@@ -22,7 +22,7 @@ URL = "#"
 name = "About Us"
 weight = 3
 [[menu.footer_middle]]
-URL = "#"
+URL = "marketplaces"
 name = "Marketplaces"
 weight = 1
 [[menu.footer_middle]]
@@ -49,7 +49,7 @@ weight = 3
 name = "About"
 weight = 3
 [[menu.main]]
-URL = "faq"
+URL = "marketplaces"
 name = "Marketplace"
 weight = 1
 [[menu.main]]

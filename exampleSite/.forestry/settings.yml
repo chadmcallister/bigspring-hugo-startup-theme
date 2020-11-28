@@ -12,6 +12,9 @@ sections:
 - type: heading
   label: Others Page
 - type: document
+  path: exampleSite/data/marketplace.yml
+  label: Marketplace Data
+- type: document
   path: exampleSite/content/faq/_index.md
   label: FAQ
 - type: document
