@@ -12,7 +12,7 @@ feature:
   enable: true
   title: Marketplaces
   feature_item:
-  - name: <a href="">wine, spirits, and beverages</a>
+  - name: <a href="/features">wine, spirits, and beverages</a>
     icon: fas fa-wine-glass-alt
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: precious metals & industrial metals
