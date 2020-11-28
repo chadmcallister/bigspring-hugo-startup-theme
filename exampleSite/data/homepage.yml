@@ -15,7 +15,7 @@ feature:
   - name: <a href="/features/marketplace">wine, spirits, and beverages</a>
     icon: fas fa-wine-glass-alt
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: <a href="/features/precious-metals-industrial-metals/>Precious Metals &
+  - name: <a href="/features/precious-metals-industrial-metals/">Precious Metals &
       Industrial Metals<a>
     icon: ti-package
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
