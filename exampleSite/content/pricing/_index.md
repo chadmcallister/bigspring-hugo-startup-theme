@@ -53,7 +53,6 @@ call_to_action:
     enable: true
     label: Contact Us
     link: contact
-draft: true
 
 ---
 Our pricing concept is designed to ensure maximum success for your marketplace. We understand that many factors go into creating a viable marketplace. The more active and engage participants are, the more value is added to all other participants. Success in a marketplace has an exponential value.
