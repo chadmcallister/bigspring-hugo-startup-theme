@@ -1,7 +1,6 @@
 +++
 description = ""
-subtitle = ""
+subtitle = "Investors | Mints | Manufacturers | Suppliers"
 title = "Precious Metals & Industrial Metals"
 
 +++
-# Precious Metals & Industrial Metals
