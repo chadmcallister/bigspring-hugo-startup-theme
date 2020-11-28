@@ -27,7 +27,6 @@ professional:
     label: Get started for free
     link: "#"
 business:
-  price_per: month
   info: Best For Large Individuals
   services:
   - Express Service
