@@ -3,7 +3,7 @@ title: Pricing
 subtitle: Let's create a pricing model that ensures maximum success!
 description: This is meta description
 basic:
-  name: Basic Plan
+  name: Distributor
   info: Best For Small Individuals
   services:
   - Express Service
@@ -27,6 +27,7 @@ professional:
     label: Get started for free
     link: "#"
 business:
+  name: Customer Portal
   info: Best For Large Individuals
   services:
   - Express Service
