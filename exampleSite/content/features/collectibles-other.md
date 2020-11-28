@@ -5,4 +5,3 @@ subtitle = ""
 title = "Collectibles & Other"
 
 +++
-# Collectibles & Other
