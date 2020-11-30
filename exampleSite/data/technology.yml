@@ -9,7 +9,7 @@ service:
     - images/service-3.png
     content: Proven, real-world tested platform hosted in the AWS cloud.
     button:
-      enable: true
+      enable: false
       label: More info
       link: "#"
   - title: Trust and Privacy
