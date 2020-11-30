@@ -46,9 +46,6 @@ URL = "privacy-policy"
 name = "Privacy Policy"
 weight = 3
 [[menu.main]]
-name = "About"
-weight = 4
-[[menu.main]]
 URL = "marketplaces"
 name = "Marketplaces"
 weight = 1

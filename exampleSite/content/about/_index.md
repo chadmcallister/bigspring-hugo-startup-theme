@@ -1,8 +1,11 @@
 ---
-title: "About Us"
-subtitle: ""
-# meta description
-description: "This is meta description"
-draft: false
+title: About Us
+subtitle: ''
+description: This is meta description
+menu:
+  main:
+    name: About
+    weight: 4
+
 ---
 #### Test About Data
