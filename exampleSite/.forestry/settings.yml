@@ -18,6 +18,9 @@ sections:
   path: exampleSite/data/technology.yml
   label: Technology Page
 - type: document
+  path: exampleSite/content/about/_index.md
+  label: About
+- type: document
   path: exampleSite/content/faq/_index.md
   label: FAQ
 - type: document
