@@ -2,10 +2,6 @@
 title: Contact Us
 subtitle: ''
 description: This is meta description
-menu:
-  main:
-    name: Technology
-    weight: 2
 
 ---
 ### What's your market?
