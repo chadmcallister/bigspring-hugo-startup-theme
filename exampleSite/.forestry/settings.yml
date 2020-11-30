@@ -15,6 +15,9 @@ sections:
   path: exampleSite/data/marketplace.yml
   label: Marketplace Data
 - type: document
+  path: exampleSite/data/technology.yml
+  label: Technology Page
+- type: document
   path: exampleSite/content/faq/_index.md
   label: FAQ
 - type: document

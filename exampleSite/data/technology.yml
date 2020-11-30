@@ -1,0 +1,54 @@
+---
+service:
+  enable: true
+  service_item:
+  - title: 'Competitive Advantage '
+    images:
+    - images/service-1.png
+    - images/service-2.png
+    - images/service-3.png
+    content: Electronic marketplace platform and patented business model can be used
+      in multiple physical industries including metals, fine wine and spirits, collectibles,
+      video games, luxury goods, and medical supplies.
+    button:
+      enable: true
+      label: Check it out
+      link: "#"
+  - title: Trust and Privacy
+    images:
+    - images/service-1.png
+    content: Centralized quality control, authentication of products, and electronic
+      order-matching from anyone-to-anyone provides pricing transparency, privacy,
+      and one-to-many efficiency.
+    button:
+      enable: true
+      label: Check it out
+      link: "#"
+  - title: Operational Excellence
+    images:
+    - images/service-2.png
+    content: '24/7 self-directed and private transactions provide users with high-quality,
+      consistent, and repeatable transaction experiences. Third-party portal access
+      allows secure outsourcing of operational support activities.
+
+'
+    button:
+      enable: true
+      label: Check it out
+      link: "#"
+  - title: Accelerate your marketplace launch now!
+    images:
+    - images/service-3.png
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
+      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
+      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
+      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
+      consquat.
+    button:
+      enable: true
+      label: Check it out
+      link: "#"
+screenshot:
+  enable: true
+  title: Accelerate your marketplace <br> launch now!
+  image: images/screenshot.svg
