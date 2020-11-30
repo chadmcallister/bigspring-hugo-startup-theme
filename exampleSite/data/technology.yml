@@ -20,14 +20,12 @@ service:
       enable: true
       label: Check it out
       link: "#"
-  - title: Operational Excellence
+  - title: API enabled
     images:
+    - ''
+    - ''
     - images/service-2.png
-    content: '24/7 self-directed and private transactions provide users with high-quality,
-      consistent, and repeatable transaction experiences. Third-party portal access
-      allows secure outsourcing of operational support activities.
-
-'
+    content: Integrate with your existing platform using simple APIs.
     button:
       enable: true
       label: Check it out
