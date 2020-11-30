@@ -1,8 +1,8 @@
 {{ define "main" }}
 
 <!-- service -->
-{{ if site.Data.homepage.service.enable }}
-{{ with site.Data.homepage.service }}
+{{ if site.Data.technology.service.enable }}
+{{ with site.Data.technology.service }}
 {{ range $i,$p := .service_item }}
 {{if modBool $i 2}}
 <section class="section">
@@ -57,8 +57,8 @@
 <!-- /service -->
 
 <!-- screenshot -->
-{{ if site.Data.homepage.screenshot.enable }}
-{{ with site.Data.homepage.screenshot }}
+{{ if site.Data.technology.screenshot.enable }}
+{{ with site.Data.technology.screenshot }}
 <section class="section pb-0">
   <div class="container">
     <div class="row">
