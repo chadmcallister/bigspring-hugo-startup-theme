@@ -2,10 +2,6 @@
 service:
   enable: true
   service_item:
-  - title: Test Section
-    images: []
-    content: Test Section
-    button: ''
   - title: 'Competitive Advantage '
     images:
     - images/service-1.png
@@ -18,6 +14,10 @@ service:
       enable: true
       label: Check it out
       link: "#"
+  - title: Test Section
+    images: []
+    content: Test Section
+    button: ''
   - title: Trust and Privacy
     images:
     - images/service-1.png
