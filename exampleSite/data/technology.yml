@@ -12,12 +12,10 @@ service:
       enable: false
       label: More info
       link: "#"
-  - title: Trust and Privacy
+  - title: Java-based
     images:
     - images/service-1.png
-    content: Centralized quality control, authentication of products, and electronic
-      order-matching from anyone-to-anyone provides pricing transparency, privacy,
-      and one-to-many efficiency.
+    content: A proven technology stack that includes Spring, Java, blah blah blah.
     button:
       enable: true
       label: Check it out
