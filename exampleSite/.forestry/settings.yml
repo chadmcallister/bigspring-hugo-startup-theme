@@ -24,6 +24,9 @@ sections:
   path: exampleSite/content/contact/_index.md
   label: Contact
 - type: document
+  path: exampleSite/content/marketplaces/_index.md
+  label: Marketplaces
+- type: document
   path: exampleSite/content/pricing/_index.md
   label: Pricing
 - type: document
