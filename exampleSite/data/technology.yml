@@ -17,7 +17,7 @@ service:
     - images/service-1.png
     content: A proven technology stack that includes Spring, Java, blah blah blah.
     button:
-      enable: true
+      enable: false
       label: Check it out
       link: "#"
   - title: API enabled
@@ -25,7 +25,7 @@ service:
     - images/service-2.png
     content: Integrate with your existing platform using simple APIs.
     button:
-      enable: true
+      enable: false
       label: Check it out
       link: "#"
   - title: Accelerate your marketplace launch now!
