@@ -1,25 +1,15 @@
 {{ define "main" }}
 {{ partial "page-header.html" . }}
 
-<!-- banner -->
-{{ with site.Data.marketplace.banner }}
-<section class="banner">
+<section class="section pt-0">
   <div class="container">
     <div class="row">
       <div class="col-lg-10 mx-auto text-center">
-        <h1 class="mb-3">{{ .title | markdownify }}</h1>
-        <p class="mb-4">{{ .content | markdownify }}</p>
-        {{ if .button.enable }}
-        {{ with .button }}
-        <div><a href="{{ .link | safeURL }}" class="btn btn-primary">{{ .label }}</a></div>
-        {{ end }}
-        {{ end }}
+        <p class="mb-4">{{ .Content }}</p>
       </div>
     </div>
   </div>
 </section>
-{{ end }}
-<!-- /banner -->
 
 <!-- marketplaces -->
 {{ if site.Data.marketplace.marketplaces.enable }}
@@ -46,14 +36,24 @@
 {{ end }}
 <!-- /marketplaces -->
 
-<section class="section pt-0">
+<!-- banner -->
+{{ with site.Data.marketplace.banner }}
+<section class="banner">
   <div class="container">
     <div class="row">
       <div class="col-lg-10 mx-auto text-center">
-        <p class="mb-4">{{ .Content }}</p>
+        <h1 class="mb-3">{{ .title | markdownify }}</h1>
+        <p class="mb-4">{{ .content | markdownify }}</p>
+        {{ if .button.enable }}
+        {{ with .button }}
+        <div><a href="{{ .link | safeURL }}" class="btn btn-primary">{{ .label }}</a></div>
+        {{ end }}
+        {{ end }}
       </div>
     </div>
   </div>
 </section>
+{{ end }}
+<!-- /banner -->
 
 {{ end }}
