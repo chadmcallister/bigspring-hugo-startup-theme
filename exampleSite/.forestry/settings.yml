@@ -16,7 +16,10 @@ sections:
   label: Marketplace Data
 - type: document
   path: exampleSite/data/technology.yml
-  label: Technology Page
+  label: Technology UI
+- type: document
+  path: exampleSite/content/technology/_index.md
+  label: Technology Content
 - type: document
   path: exampleSite/content/about/_index.md
   label: About
