@@ -22,8 +22,6 @@ service:
       link: "#"
   - title: API enabled
     images:
-    - ''
-    - ''
     - images/service-2.png
     content: Integrate with your existing platform using simple APIs.
     button:
