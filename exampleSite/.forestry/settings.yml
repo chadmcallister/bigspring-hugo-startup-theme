@@ -38,7 +38,7 @@ sections:
   path: exampleSite/content/pricing/_index.md
   label: Pricing
 - type: heading
-  label: Data
+  label: Other
 - type: document
   path: exampleSite/content/privacy-policy/_index.md
   label: Privacy Policy
