@@ -3,6 +3,7 @@ basic:
   name: Distributor
   info: Best For Small Individuals
   services:
+  - Test Service
   - Express Service
   - Customs Clearance
   - Time-Critical Services
