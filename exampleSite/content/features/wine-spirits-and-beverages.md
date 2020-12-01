@@ -19,8 +19,7 @@ Wine investors, suppliers and vendors (“participants”) can participate in th
 * In addition, third party secure access allows outsourced supply chain activities and the transaction anonymity creates competition among suppliers.
 * The marketplace will expand as more and more participants conduct business and the software is easily scalable as the business grows.
 
-  #### Pricing and Investment
-
+#### Pricing and Investment
 
 * Revenue sharing through transaction-based performance means minimal upfront investment in the OrderMatch UniverseTM enterprise class software platform. Multiple revenue streams can arise from sales or trading transactions, shipping, storage, and packaging.
 * OrderMatch UniverseTM eliminates the need for real estate investment in physical facilities because it is 100% cloud based. There is minimal overhead because shipping, authentication and storage are provided by trusted operational partners. A single administrator can operate off-site with minimal management controls.
