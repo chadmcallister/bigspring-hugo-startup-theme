@@ -10,13 +10,18 @@ sections:
   path: exampleSite/data/homepage.yml
   label: Homepage Data
 - type: heading
-  label: Others Page
+  label: Data
 - type: document
   path: exampleSite/data/marketplace.yml
   label: Marketplace Data
 - type: document
   path: exampleSite/data/technology.yml
   label: Technology Data
+- type: document
+  path: exampleSite/data/pricing.yml
+  label: Pricing Data
+- type: heading
+  label: Content Pages
 - type: document
   path: exampleSite/content/technology/_index.md
   label: Technology Content
@@ -32,9 +37,6 @@ sections:
 - type: document
   path: exampleSite/content/pricing/_index.md
   label: Pricing
-- type: document
-  path: exampleSite/data/pricing.yml
-  label: Pricing Data
 - type: document
   path: exampleSite/content/privacy-policy/_index.md
   label: Privacy Policy
