@@ -2,36 +2,30 @@
 service:
   enable: true
   service_item:
-  - title: 'Competitive Advantage '
+  - title: Cloud-based
     images:
     - images/service-1.png
     - images/service-2.png
     - images/service-3.png
-    content: Electronic marketplace platform and patented business model can be used
-      in multiple physical industries including metals, fine wine and spirits, collectibles,
-      video games, luxury goods, and medical supplies.
+    content: Proven, real-world tested platform hosted in the AWS cloud.
     button:
-      enable: true
-      label: Check it out
+      enable: false
+      label: More info
       link: "#"
-  - title: Trust and Privacy
+  - title: Java-based
     images:
     - images/service-1.png
-    content: Centralized quality control, authentication of products, and electronic
-      order-matching from anyone-to-anyone provides pricing transparency, privacy,
-      and one-to-many efficiency.
+    content: A proven technology stack that includes Spring, Java, blah blah blah.
     button:
       enable: true
       label: Check it out
       link: "#"
-  - title: Operational Excellence
+  - title: API enabled
     images:
+    - ''
+    - ''
     - images/service-2.png
-    content: '24/7 self-directed and private transactions provide users with high-quality,
-      consistent, and repeatable transaction experiences. Third-party portal access
-      allows secure outsourcing of operational support activities.
-
-'
+    content: Integrate with your existing platform using simple APIs.
     button:
       enable: true
       label: Check it out
