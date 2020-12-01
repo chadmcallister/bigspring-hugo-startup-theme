@@ -47,7 +47,7 @@ service:
       in multiple physical industries including metals, fine wine and spirits, collectibles,
       video games, luxury goods, and medical supplies.
     button:
-      enable: true
+      enable: false
       label: more information
       link: "#"
   - title: Trust and Privacy
