@@ -59,7 +59,7 @@ text:
     Consider that building a comparable software will cost millions of dollars. Licensing such a platform will require six figure licensing fees and extensive implementation and support costs. Just let us know what valuable attributes you bring to a marketplace and we can create viable pricing schedule. Common attributes include: product validation and authentication, customer acquisition and support, manufacturer or distributor, etc.
 
 ---
-#### Pricing designed to accelerate growth!
+#### Licensing agreement designed to accelerate growth!
 
 Our pricing concept is designed to encourage growth and ensure maximum success for your marketplace. We understand that many factors go into creating a viable marketplace. The more active and engage participants are in a marketplace, the more value is added to all other participants. Success in a marketplace has an exponential value.
 
