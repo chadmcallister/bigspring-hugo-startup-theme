@@ -3,51 +3,6 @@ title: Pricing
 layout: pricing
 subtitle: Let's create a pricing model that ensures maximum success!
 description: This is meta description
-basic:
-  name: Distributor
-  info: Best For Small Individuals
-  services:
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
-  button:
-    enable: true
-    label: Get started for free
-    link: "#"
-professional:
-  name: Product Validator
-  info: Best For Professionals
-  services:
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
-  - Cloud Service
-  - Best Dashboard
-  button:
-    enable: true
-    label: Get started for free
-    link: "#"
-business:
-  name: Customer Portal
-  info: Best For Large Individuals
-  services:
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
-  button:
-    enable: true
-    label: Get started for free
-    link: "#"
-call_to_action:
-  enable: true
-  title: Need a larger plan?
-  image: images/cta.svg
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-    eget amet, tempus eu at consecttur.
-  button:
-    enable: true
-    label: Contact Us
-    link: contact
 
 ---
 #### Licensing agreement designed to accelerate growth!
