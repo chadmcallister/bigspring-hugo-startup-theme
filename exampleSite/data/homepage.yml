@@ -57,7 +57,7 @@ service:
       order-matching from anyone-to-anyone provides pricing transparency, privacy,
       and one-to-many efficiency.
     button:
-      enable: true
+      enable: false
       label: Check it out
       link: "#"
   - title: Operational Excellence
