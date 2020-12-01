@@ -86,10 +86,9 @@ screenshot:
   image: images/screenshot.svg
 call_to_action:
   enable: true
-  title: Ready to get started?
+  title: Let's get started?
   image: images/cta.svg
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-    eget amet, tempus eu at consecttur.
+  content: Tell us more about your business and market.
   button:
     enable: true
     label: Contact Us
