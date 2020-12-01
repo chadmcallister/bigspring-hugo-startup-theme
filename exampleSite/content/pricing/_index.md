@@ -1,5 +1,6 @@
 ---
 title: Pricing
+layout: pricing
 subtitle: Let's create a pricing model that ensures maximum success!
 description: This is meta description
 basic:
