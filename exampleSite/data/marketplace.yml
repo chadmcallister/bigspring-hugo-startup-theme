@@ -33,4 +33,5 @@ marketplaces:
       and distributors.
   - name: <a href="/features/collectibles-other/">Collectibles & Other</a>
     icon: fas fa-archive
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Create a marketplace for video games, fine art, numismatics and/or other
+      collectors.
