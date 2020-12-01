@@ -14,15 +14,13 @@ Wine investors can locate, authenticate, and trade investment quality wine and a
 
 Wine investors, suppliers and vendors (“participants”) can participate in the marketplace by opening an account on the secure website portal. Participants can then list collectible wine to sell and the sale price, or they can list wine that they wish to purchase and bid the price they want to pay. The software matches the buy and sell orders, notifies the buyer and seller of a transaction, handles the payment, shipping and storage of the product. Estate sellers, individual investors, or retail entities can participate. In addition, multiple shipping and storage vendors can participate.
 
-Participants can access the website 24/7 and all activities are self-directed. There are no intermediaries to negotiate pricing or finalize transactions and participants can change their offered or bid prices at any time prior to a match. All buy and sell transactions are anonymous. Therefore, all participants can instantaneously see offered prices and bids for products on the website but they will not know the source and can be assured of privacy.
+* Participants can access the website 24/7 and all activities are self-directed. There are no intermediaries to negotiate pricing or finalize transactions and participants can change their offered or bid prices at any time prior to a match. All buy and sell transactions are anonymous. Therefore, all participants can instantaneously see offered prices and bids for products on the website but they will not know the source and can be assured of privacy.
+* Various strategic activities are managed by trusted operational partners with expertise in a specific industry area. Operational partners for authentication, packaging, shipping and storage are all linked by the software.
+* In addition, third party secure access allows outsourced supply chain activities and the transaction anonymity creates competition among suppliers.
+* The marketplace will expand as more and more participants conduct business and the software is easily scalable as the business grows.
 
-Various strategic activities are managed by trusted operational partners with expertise in a specific industry area. Operational partners for authentication, packaging, shipping and storage are all linked by the software.
+  #### Pricing and Investment
 
-In addition, third party secure access allows outsourced supply chain activities and the transaction anonymity creates competition among suppliers.
-
-The marketplace will expand as more and more participants conduct business and the software is easily scalable as the business grows.
-
-#### Pricing and Investment
 
 * Revenue sharing through transaction-based performance means minimal upfront investment in the OrderMatch UniverseTM enterprise class software platform. Multiple revenue streams can arise from sales or trading transactions, shipping, storage, and packaging.
 * OrderMatch UniverseTM eliminates the need for real estate investment in physical facilities because it is 100% cloud based. There is minimal overhead because shipping, authentication and storage are provided by trusted operational partners. A single administrator can operate off-site with minimal management controls.
