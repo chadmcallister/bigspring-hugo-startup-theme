@@ -68,19 +68,15 @@
   </div>
 </section>
 
-{{ if .Params.text.enable }}
-{{ with .Params.text }}
 <section class="banner">
   <div class="container">
     <div class="row">
       <div class="col-lg-10 mx-auto text-center">
-        <h1 class="mb-4"><small>{{ .content | markdownify }}</small></h1>
+        <h1 class="content">{{ .Content }}</h1>
       </div>
     </div>
   </div>
 </section>
-{{ end }}
-{{ end }}
 
 <!-- call to action -->
 {{ if .Params.call_to_action.enable }}
