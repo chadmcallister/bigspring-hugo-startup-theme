@@ -16,24 +16,23 @@ feature:
     icon: fas fa-wine-glass-alt
     content: Create a marketplace for wine investors, vintners, growers, producers
       and suppliers.
-  - name: <a href="/features/fine-diamonds-and-gemstones/">Fine Diamonds & Gemstones</a>
+  - name: "[Fine Diamonds & Gemstones](/features/fine-diamonds-and-gemstones/)"
     icon: far fa-gem
     content: Create a marketplace for diamond & gemstone investors, jewelers, graders
       and certifiers.
-  - name: <a href="/features/precious-metals-industrial-metals/">Industrial & Precious
-      Metals<a>
+  - name: "[Industrial & Precious Metals](/features/precious-metals-industrial-metals/)"
     icon: fas fa-coins
     content: Create a marketplace for bullion investors, mints and manufacturers,
       depositories, and distributors.
-  - name: <a href="/features/medical-bio/">Medical & Bio</a>
+  - name: "[Medical & Bio](/features/medical-bio/)"
     icon: fas fa-briefcase-medical
     content: Create a marketplace for plasma, cannabis, CBDs, and other bio material
       and supplies.
-  - name: <a href="/features/firearms-ammo/">Firearms & Ammo</a>
+  - name: "[Firearms & Ammo](/features/firearms-ammo/)"
     icon: fas fa-shield-alt
     content: Create a marketplace for firearm collectors, manufacturers, retailers
       and distributors.
-  - name: <a href="/features/collectibles-other/">Collectibles & Other</a>
+  - name: "[Collectibles & Other](/features/collectibles-other/)"
     icon: fas fa-archive
     content: Create a marketplace for video games, fine art, numismatics and/or other
       collectors.
