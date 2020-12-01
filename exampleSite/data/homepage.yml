@@ -30,7 +30,7 @@ feature:
     icon: fas fa-shield-alt
     content: Create a marketplace for firearm collectors, manufacturers, retailers
       and distributors.
-  - name: <a href="/features/collectibles-other/">Collectibles & Other</a>
+  - name: <a href="/features/collectibles-other/">Video Games and Other Collectibles</a>
     icon: fas fa-archive
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
 service:
