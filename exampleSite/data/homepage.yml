@@ -78,8 +78,8 @@ service:
     images:
     - images/service-3.png
     content: Product authentication is key to bringing trust to a marketplace. Our
-      patented business model combines validated product, anyone-to-anyone (A2A),
-      buyer-seller privacy, and one-to-many order matching capabilities to create
+      patented marketplace model combines validated product,  buyer-seller privacy,
+      anyone-to-anyone (A2A) and one-to-many order matching capabilities to create
       the most trusted marketplace available.
     button:
       enable: false
