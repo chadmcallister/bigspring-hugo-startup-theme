@@ -85,7 +85,7 @@ service:
       label: Check it out
       link: "#"
 screenshot:
-  enable: true
+  enable: false
   title: Accelerate your marketplace <br> launch now!
   image: images/screenshot.svg
 call_to_action:
