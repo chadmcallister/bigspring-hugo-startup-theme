@@ -1,6 +1,14 @@
 {{ define "main" }}
 {{ partial "page-header.html" . }}
 
+<section class="section bg-white content">
+  <div class="container">
+    <div class="row">
+      <div class="content">{{ .Content }}</div>
+    </div>
+  </div>
+</section>
+
 <!-- service -->
 {{ if site.Data.technology.service.enable }}
 {{ with site.Data.technology.service }}
