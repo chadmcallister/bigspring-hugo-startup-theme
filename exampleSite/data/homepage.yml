@@ -48,7 +48,7 @@ service:
       video games, luxury goods, and medical supplies.
     button:
       enable: true
-      label: Check it out
+      label: more information
       link: "#"
   - title: Trust and Privacy
     images:
