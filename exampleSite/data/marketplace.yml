@@ -21,7 +21,8 @@ marketplaces:
       depositories, and distributors.
   - name: <a href="/features/fine-diamonds-and-gemstones/">Fine Diamonds and Gemstones</a>
     icon: far fa-gem
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Create a marketplace for diamond and gemstone investors, jewelers, graders
+      and certifiers.
   - name: <a href="/features/medical-bio/">Medical & Bio</a>
     icon: fas fa-briefcase-medical
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
