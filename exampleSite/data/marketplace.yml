@@ -17,8 +17,8 @@ marketplaces:
   - name: <a href="/features/precious-metals-industrial-metals/">Industrial & Precious
       Metals<a>
     icon: fas fa-coins
-    content: Create a marketplace for bullion investors, mints and manufacturers,
-      depositories, and distributors.
+    content: Create a marketplace for bullion investors, mints & manufacturers, depositories
+      and distributors.
   - name: <a href="/features/fine-diamonds-and-gemstones/">Fine Diamonds & Gemstones</a>
     icon: far fa-gem
     content: Create a marketplace for diamond & gemstone investors, jewelers, graders
