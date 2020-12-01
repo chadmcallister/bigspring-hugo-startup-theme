@@ -69,7 +69,7 @@ service:
 
 '
     button:
-      enable: true
+      enable: false
       label: Check it out
       link: "#"
   - title: Accelerate your marketplace launch now!
