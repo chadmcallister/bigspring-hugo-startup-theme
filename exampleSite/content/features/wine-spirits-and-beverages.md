@@ -1,6 +1,6 @@
 +++
 description = ""
-subtitle = "Investors | Producers | Growers | Suppliers"
+subtitle = "Investors | Producers & Distillers | Growers | Suppliers"
 title = "Wine, Spirits, & Beverages"
 
 +++
