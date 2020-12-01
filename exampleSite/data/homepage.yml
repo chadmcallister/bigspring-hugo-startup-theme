@@ -12,7 +12,7 @@ feature:
   enable: true
   title: Marketplaces
   feature_item:
-  - name: <a href="/features/wine-spirits-and-beverages/">Wine, Spirits, & Beverages</a>
+  - name: "[Wine, Spirits, & Beverages](/features/wine-spirits-and-beverages/)"
     icon: fas fa-wine-glass-alt
     content: Create a marketplace for wine investors, vintners, growers, producers
       and suppliers.
