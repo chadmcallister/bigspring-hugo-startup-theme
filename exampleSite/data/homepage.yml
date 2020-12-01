@@ -14,7 +14,8 @@ feature:
   feature_item:
   - name: <a href="/features/wine-spirits-and-beverages/">Wine, Spirits, & Beverages</a>
     icon: fas fa-wine-glass-alt
-    content: Create a marketplace for wine investors, vintners, producers and suppliers.
+    content: Create a marketplace for wine investors, vintners, growers, producers
+      and suppliers.
   - name: <a href="/features/fine-diamonds-and-gemstones/">Fine Diamonds & Gemstones</a>
     icon: far fa-gem
     content: Create a marketplace for diamond & gemstone investors, jewelers, graders
