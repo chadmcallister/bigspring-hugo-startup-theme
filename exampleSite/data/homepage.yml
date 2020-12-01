@@ -33,8 +33,8 @@ feature:
       and distributors.
   - name: <a href="/features/collectibles-other/">Collectibles & Other</a>
     icon: fas fa-archive
-    content: Create a marketplace for video game enthusiasts, fine art investors,
-      numismatists and/or other collectors.
+    content: Create a marketplace for video games, fine art, numismatics and/or other
+      collectors.
 service:
   enable: true
   service_item:
