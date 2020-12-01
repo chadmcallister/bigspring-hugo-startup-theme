@@ -18,23 +18,23 @@ sections:
 - type: document
   path: exampleSite/data/pricing.yml
   label: Pricing Data
+- type: document
+  path: exampleSite/content/contact/_index.md
+  label: Contact
 - type: heading
-  label: Content Pages
+  label: Content
+- type: document
+  path: exampleSite/content/pricing/_index.md
+  label: Pricing
 - type: document
   path: exampleSite/content/technology/_index.md
-  label: Technology Content
+  label: Technology
 - type: document
   path: exampleSite/content/about/_index.md
   label: About
 - type: document
   path: exampleSite/content/faq/_index.md
   label: FAQ
-- type: document
-  path: exampleSite/content/contact/_index.md
-  label: Contact
-- type: document
-  path: exampleSite/content/pricing/_index.md
-  label: Pricing
 - type: heading
   label: Other
 - type: document
