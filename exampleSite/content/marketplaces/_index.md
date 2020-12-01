@@ -1,7 +1,7 @@
 ---
 title: Marketplaces
 layout: marketplaces
-subtitle: ''
+subtitle: Subtitle goes here
 description: This is meta description
 
 ---
