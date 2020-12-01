@@ -29,7 +29,8 @@ marketplaces:
       and supplies.
   - name: <a href="/features/firearms-ammo/">Firearms & Ammo</a>
     icon: fas fa-shield-alt
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Create a marketplace for firearm collectors, manufacturers, retailers
+      and distributors.
   - name: <a href="/features/collectibles-other/">Collectibles & Other</a>
     icon: fas fa-archive
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
