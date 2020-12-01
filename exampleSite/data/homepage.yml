@@ -32,7 +32,7 @@ feature:
       and distributors.
   - name: <a href="/features/collectibles-other/">Video Games and Other Collectibles</a>
     icon: fas fa-archive
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Create a marketplace for video game enthusiasts and other collectors.
 service:
   enable: true
   service_item:
