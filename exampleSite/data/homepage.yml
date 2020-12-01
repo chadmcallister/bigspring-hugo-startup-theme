@@ -18,7 +18,8 @@ feature:
   - name: <a href="/features/precious-metals-industrial-metals/">Precious Metals &
       Industrial Metals<a>
     icon: fas fa-coins
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Create a marketplace for bullion investors, mints and manufacturers,
+      depositories, and distributors.
   - name: <a href="/features/fine-diamonds-and-gemstones/">Fine Diamonds and Gemstones</a>
     icon: far fa-gem
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
