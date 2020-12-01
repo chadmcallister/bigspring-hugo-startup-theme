@@ -74,14 +74,13 @@ service:
       enable: false
       label: Check it out
       link: "#"
-  - title: Accelerate your marketplace launch now!
+  - title: Why a platform for authenticated products?
     images:
     - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: Product authentication is key to bringing trust to a marketplace. Our
+      patented business model combines validated product, anyone-to-anyone (A2A),
+      buyer-seller privacy, and one-to-many order matching capabilities to create
+      the most trusted marketplace available.
     button:
       enable: false
       label: Check it out
