@@ -1,17 +1,12 @@
 {{ define "main" }}
 
-{{ if site.Data.technology.textContent.enable }}
-{{ with site.Data.technology.textContent.contentItem }}
 <section class="section bg-white content">
   <div class="container">
     <div class="row">
-      {{ $firstTab := index . 0 }}
-      {{ $firstTab }}
+      <div class="content">{{ .Content }}</div>
     </div>
   </div>
 </section>
-{{ end }}
-{{ end }}
 
 <!-- service -->
 {{ if site.Data.technology.service.enable }}
