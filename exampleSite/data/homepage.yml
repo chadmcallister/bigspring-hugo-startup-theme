@@ -15,8 +15,8 @@ feature:
   - name: <a href="/features/wine-spirits-and-beverages/">Wine, Spirits, and Beverages</a>
     icon: fas fa-wine-glass-alt
     content: Create a marketplace for wine investors, vintners, producers and suppliers.
-  - name: <a href="/features/precious-metals-industrial-metals/">Precious Metals &
-      Industrial Metals<a>
+  - name: <a href="/features/precious-metals-industrial-metals/">Precious & Industrial
+      Metals<a>
     icon: fas fa-coins
     content: Create a marketplace for bullion investors, mints and manufacturers,
       depositories, and distributors.
