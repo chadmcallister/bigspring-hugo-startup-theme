@@ -4,25 +4,23 @@ service:
   service_item:
   - title: Cloud-based
     images:
-    - images/service-1.png
-    - images/service-2.png
-    - images/service-3.png
+    - images/undraw_server_cluster_jwwq.svg
     content: Proven, real-world tested platform hosted in the AWS cloud.
     button:
       enable: false
       label: More info
       link: "#"
-  - title: Java-based
+  - title: Java Backend
     images:
-    - images/service-1.png
+    - images/undraw_code_review_l1q9.svg
     content: A proven technology stack that includes Spring, Java, blah blah blah.
     button:
       enable: false
       label: Check it out
       link: "#"
-  - title: API enabled
+  - title: API Enabled
     images:
-    - images/service-2.png
+    - "/images/undraw_server_q2pb.svg"
     content: Integrate with your existing platform using simple APIs.
     button:
       enable: false
@@ -30,7 +28,7 @@ service:
       link: "#"
   - title: Accelerate your marketplace launch now!
     images:
-    - images/service-3.png
+    - "/images/undraw_moving_forward_lhhd.svg"
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
       eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
       sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
