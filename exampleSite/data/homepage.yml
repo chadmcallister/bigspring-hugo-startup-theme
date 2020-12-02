@@ -8,10 +8,10 @@ banner:
     enable: true
     label: what is your market?
     link: marketplaces
-feature:
+marketplaces:
   enable: true
   title: Marketplaces
-  feature_item:
+  marketplace_item:
   - name: "[Wine, Spirits, & Beverages](/features/wine-spirits-and-beverages/)"
     icon: fas fa-wine-glass-alt
     content: Create a marketplace for wine investors, vintners, growers, producers

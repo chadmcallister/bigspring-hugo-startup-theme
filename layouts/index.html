@@ -22,16 +22,16 @@
 {{ end }}
 <!-- /banner -->
 
-<!-- feature -->
-{{ if site.Data.homepage.feature.enable }}
-{{ with site.Data.homepage.feature }}
+<!-- marketplaces -->
+{{ if site.Data.homepage.marketplaces.enable }}
+{{ with site.Data.homepage.marketplaces }}
 <section class="section bg-light">
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-12 text-center">
         <h2 class="section-title">{{ .title | markdownify }}</h2>
       </div>
-      {{ range .feature_item }}
+      {{ range .marketplace_item }}
       <div class="col-md-4 col-sm-6 mb-4">
         <div class="feature-card text-center">
           <i class="{{.icon}} mb-3"></i>
@@ -45,7 +45,7 @@
 </section>
 {{ end }}
 {{ end }}
-<!-- /feature -->
+<!-- /marketplaces -->
 
 <!-- service -->
 {{ if site.Data.homepage.service.enable }}
