@@ -1,16 +1,40 @@
 {{ define "main" }}
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
 {{ partial "page-header.html" . }}
 <section class="section bg-white">
   <div class="container">
     <div class="row">
       <div class="col-lg-7 mb-4 mb-lg-0">
         <form name="contact" method="POST" data-netlify="true">
-          <input type="text" class="form-control mb-3" id="name" name="name" placeholder="Your Name">
-          <input type="text" class="form-control mb-3" id="subject" name="subject" placeholder="Company Name">
-          <input type="text" class="form-control mb-3" id="industry" name="industry" placeholder="Industry / Market">
-          <input type="email" class="form-control mb-3" id="mail" name="mail" placeholder="Your Email">
-          <textarea name="message" id="message" class="form-control mb-3" placeholder="Your Message"></textarea>
+          <div class="form-group">
+            <input type="text" class="form-control mb-3" id="name" name="name" placeholder="Your Name">
+            <div class="valid-feedback">Valid.</div>
+            <div class="invalid-feedback">Please fill out this field.</div>
+          </div>
+          <div class="form-group">
+            <input type="text" class="form-control mb-3" id="subject" name="subject" placeholder="Company Name">
+            <div class="valid-feedback">Valid.</div>
+            <div class="invalid-feedback">Please fill out this field.</div>
+          </div>
+          <div class="form-group">
+            <input type="text" class="form-control mb-3" id="industry" name="industry" placeholder="Industry / Market">
+            <div class="valid-feedback">Valid.</div>
+            <div class="invalid-feedback">Please fill out this field.</div>
+          </div>
+          <div class="form-group">
+            <input type="email" class="form-control mb-3" id="mail" name="mail" placeholder="Your Email">
+            <div class="valid-feedback">Valid.</div>
+            <div class="invalid-feedback">Please fill out this field.</div>
+          </div>
+          <div class="form-group">
+            <textarea name="message" id="message" class="form-control mb-3" placeholder="Your Message"></textarea>
+            <div class="valid-feedback">Valid.</div>
+            <div class="invalid-feedback">Please fill out this field.</div>
+          </div>
           <button type="submit" value="send" class="btn btn-primary">Send Now</button>
         </form>
       </div>
