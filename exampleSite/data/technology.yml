@@ -20,7 +20,7 @@ service:
       link: "#"
   - title: API Enabled
     images:
-    - "/images/undraw_server_q2pb.svg"
+    - "/images/undraw_two_factor_authentication_namy.svg"
     content: Integrate with your existing platform using simple APIs.
     button:
       enable: false
