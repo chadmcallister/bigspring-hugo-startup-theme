@@ -89,7 +89,7 @@ screenshot:
 call_to_action:
   enable: true
   title: Accelerate your marketplace <br> launch now!
-  image: images/cta.svg
+  image: "/images/undraw_stock_prices_afrt.svg"
   content: Tell us more about your business and market.
   button:
     enable: true
