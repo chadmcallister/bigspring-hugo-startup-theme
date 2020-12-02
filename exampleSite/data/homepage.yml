@@ -41,9 +41,7 @@ service:
   service_item:
   - title: 'Competitive Advantage '
     images:
-    - images/service-1.png
-    - images/service-2.png
-    - images/service-3.png
+    - "/images/undraw_investing_7u74.svg"
     content: Electronic marketplace platform and patented business model can be used
       in multiple physical industries including metals, fine wine and spirits, collectibles,
       video games, luxury goods, and medical supplies.
@@ -53,7 +51,7 @@ service:
       link: "#"
   - title: Trust and Privacy
     images:
-    - images/service-1.png
+    - "/images/undraw_security_o890.svg"
     content: Centralized quality control, authentication of products, and electronic
       order-matching from anyone-to-anyone provides pricing transparency, privacy,
       and one-to-many efficiency.
@@ -63,7 +61,7 @@ service:
       link: "#"
   - title: Operational Excellence
     images:
-    - images/service-2.png
+    - "/images/undraw_revenue_3osh.svg"
     content: '24/7 self-directed and private transactions provide users with high-quality,
       consistent, and repeatable transaction experiences. Third-party portal access
       allows secure outsourcing of operational support activities.
@@ -75,7 +73,7 @@ service:
       link: "#"
   - title: Why a platform for authenticated products?
     images:
-    - images/service-3.png
+    - "/images/undraw_inspection_re_tbt7.svg"
     content: Product authentication is key to bringing trust to a marketplace. Our
       patented marketplace model combines validated product,  buyer-seller privacy,
       anyone-to-anyone (A2A) and one-to-many order matching capabilities to create
