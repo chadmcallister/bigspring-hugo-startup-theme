@@ -38,7 +38,7 @@ business:
 call_to_action:
   enable: true
   title: Want to configure your licensing agreement for maximum success?
-  image: images/cta.svg
+  image: "/images/undraw_personal_finance_tqcd-2.svg"
   content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
     eget amet, tempus eu at consecttur.
   button:
