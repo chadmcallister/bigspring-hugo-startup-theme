@@ -37,7 +37,7 @@ name = "Contact"
 weight = 5
 [[menu.main]]
 URL = "pricing"
-name = "Pricing"
+name = "Licensing"
 weight = 3
 [params]
 author = "Themefisher"
