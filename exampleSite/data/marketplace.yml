@@ -11,7 +11,7 @@ marketplaces:
   enable: true
   title: Marketplaces
   marketplace_item:
-  - name: "[Wine, Spirits, & Beverages](/marketplaces/wine-spirits-and-beverages/)"
+  - name: "[Wine | Spirits | Beverages](/marketplaces/wine-spirits-and-beverages/)"
     icon: fas fa-wine-glass-alt
     content: Create a marketplace for wine investors, vintners, producers and suppliers.
   - name: "[Fine Diamonds & Gemstones](/marketplaces/fine-diamonds-and-gemstones/)"
