@@ -12,27 +12,27 @@ marketplaces:
   enable: true
   title: Marketplaces
   marketplace_item:
-  - name: "[Wine, Spirits, & Beverages](/features/wine-spirits-and-beverages/)"
+  - name: "[Wine, Spirits, & Beverages](/marketplaces/wine-spirits-and-beverages/)"
     icon: fas fa-wine-glass-alt
     content: Create a marketplace for wine investors, vintners, growers, producers
       and suppliers.
-  - name: "[Fine Diamonds & Gemstones](/features/fine-diamonds-and-gemstones/)"
+  - name: "[Fine Diamonds & Gemstones](/marketplaces/fine-diamonds-and-gemstones/)"
     icon: far fa-gem
     content: Create a marketplace for diamond & gemstone investors, jewelers, graders
       and certifiers.
-  - name: "[Industrial & Precious Metals](/features/precious-metals-industrial-metals/)"
+  - name: "[Industrial & Precious Metals](/marketplaces/precious-metals-industrial-metals/)"
     icon: fas fa-coins
     content: Create a marketplace for bullion investors, mints and manufacturers,
       depositories, and distributors.
-  - name: "[Medical & Bio](/features/medical-bio/)"
+  - name: "[Medical & Bio](/marketplaces/medical-bio/)"
     icon: fas fa-briefcase-medical
     content: Create a marketplace for plasma, cannabis, CBDs, and other bio material
       and supplies.
-  - name: "[Firearms & Ammo](/features/firearms-ammo/)"
+  - name: "[Firearms & Ammo](/marketplaces/firearms-ammo/)"
     icon: fas fa-shield-alt
     content: Create a marketplace for firearm collectors, manufacturers, retailers
       and distributors.
-  - name: "[Collectibles & Other](/features/collectibles-other/)"
+  - name: "[Collectibles & Other](/marketplaces/collectibles-other/)"
     icon: fas fa-archive
     content: Create a marketplace for video games, fine art, numismatics and/or other
       collectors.
