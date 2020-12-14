@@ -43,10 +43,17 @@ service:
       enable: false
       label: Check it out
       link: "#"
-  - title: API Enabled
+  - title: Acquisition
     images:
     - "/images/undraw_two_factor_authentication_namy.svg"
-    content: Integrate with your existing platform using simple APIs.
+    content: |-
+      - Pricing depends upon platforms included in the software purchase
+
+      - Operate marketplace platforms in numerous industries at various levels
+
+      - Valuation was done previously for one industry
+
+      - Proformas available upon entering non-disclosure agreements
     button:
       enable: false
       label: Check it out
