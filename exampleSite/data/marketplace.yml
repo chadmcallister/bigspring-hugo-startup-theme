@@ -107,10 +107,11 @@ section:
       enable: false
       label: Check it out
       link: "#"
-  - title: API Enabled
+  - title: Product Authentication & Anti-Counterfeiting
     images:
     - "/images/undraw_two_factor_authentication_namy.svg"
-    content: Integrate with your existing platform using simple APIs.
+    content: Combined with a product verification process and the patented business
+      model, the OrderMatch platform supports the most trusted marketplace available.
     button:
       enable: false
       label: Check it out
