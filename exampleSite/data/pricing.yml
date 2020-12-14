@@ -12,10 +12,17 @@ call_to_action:
 service:
   enable: true
   service_item:
-  - title: Cloud-based
+  - title: Transaction Based - License
     images:
     - images/undraw_server_cluster_jwwq.svg
-    content: Proven, real-world tested platform hosted in the AWS cloud.
+    content: |-
+      Software provided by OrderMatch UniverseTM at no cost
+
+      Licensee is responsible for any modification for their website, API, business needs
+
+      Payments monthly based upon transaction fees, percent of margin or other volume tracking
+
+      Once a certain level of transactions is reached, can convert to monthly subscription fee based upon volumes
     button:
       enable: false
       label: More info
