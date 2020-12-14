@@ -53,9 +53,6 @@ sections:
   path: exampleSite/content/technology/_index.md
   label: Technology
 - type: document
-  path: exampleSite/content/about/_index.md
-  label: About
-- type: document
   path: exampleSite/content/faq/_index.md
   label: FAQ
 - type: heading
