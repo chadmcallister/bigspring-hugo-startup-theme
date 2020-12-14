@@ -38,8 +38,7 @@ section:
   enable: true
   section_item:
   - title: How It Works
-    images:
-    - fas fa-cogs
+    images: []
     content: System verified, self-directed participants begin by opening an account
       in the secure website portal. Participants then select products to sell and
       the sale price, or products to purchase and bid the price.  The software matches
