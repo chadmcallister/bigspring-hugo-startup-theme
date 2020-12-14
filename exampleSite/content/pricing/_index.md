@@ -5,10 +5,33 @@ subtitle: Let's create a pricing model that ensures maximum success!
 description: This is meta description
 
 ---
-#### Licensing agreements designed to accelerate growth!
 
-Not only does the OrderMatch software platform facilitates extreme growth, our pricing concept is designed to encourage maximum scale and ensure success for your marketplace. We understand that many factors go into creating a successful marketplace. The more active and engaged participants are, the more value is added to all participants - a successful marketplace creates exponential value.
+### Transaction Based - License
 
-Therefore, we are looking for strategic relationships to offer our software platform with limited upfront costs so you can dedicate your capital  towards expanding and growing your marketplace quickly and successfully. In exchange, we can structure success-based fees on the premise that our proven platform will provide faster and greater value to all.
+Software provided by OrderMatch UniverseTM at no cost
 
-Consider that building a comparable software will cost millions of dollars. Licensing such a platform will require six figure licensing fees and extensive implementation and support costs. Just let us know what valuable attributes you bring to a marketplace and we can create viable pricing schedule. Common attributes include: product validation and authentication, customer acquisition and support, manufacturer or distributor, etc.
+Licensee is responsible for any modification for their website, API, business needs
+
+Payments monthly based upon transaction fees, percent of margin or other volume tracking
+
+Once a certain level of transactions is reached, can convert to monthly subscription fee based upon volumes
+
+### Standard Royalty License
+
+Software provided by Ordermatch UniverseTM for lump sum royalty fee
+
+Licensee is responsible for any modification for their website, API, business needs
+
+Running Royalty based upon percent of net revenue
+
+Running Royalties for a defined period and type of exclusivity (geographic, industry, or product)
+
+### Acquisition
+
+Pricing depends upon platforms included in the software purchase 
+
+Operate marketplace platforms in numerous industries at various levels
+
+Valuation was done previously for one industry
+
+Proformas available upon entering non-disclosure agreements

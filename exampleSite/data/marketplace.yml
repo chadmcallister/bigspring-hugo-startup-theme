@@ -11,7 +11,7 @@ marketplaces:
   enable: true
   title: Marketplaces
   marketplace_item:
-  - name: "[Wine, Spirits, & Beverages](/marketplaces/wine-spirits-and-beverages/)"
+  - name: "[Wine | Spirits | Beverages](/marketplaces/wine-spirits-and-beverages/)"
     icon: fas fa-wine-glass-alt
     content: Create a marketplace for wine investors, vintners, producers and suppliers.
   - name: "[Fine Diamonds & Gemstones](/marketplaces/fine-diamonds-and-gemstones/)"
@@ -37,50 +37,80 @@ marketplaces:
 section:
   enable: true
   section_item:
-  - title: Cloud-based
-    images:
-    - images/undraw_server_cluster_jwwq.svg
-    content: Proven, real-world tested platform hosted in the AWS cloud.
+  - title: How It Works
+    images: []
+    content: System verified, self-directed participants begin by opening an account
+      in the secure website portal. Participants then select products to sell and
+      the sale price, or products to purchase and bid the price.  The software matches
+      the buy and sell orders, notifies the buyer and seller of a transaction, keeping
+      participants anonymous from each other.  <br><br>The operator and/or trusted
+      operational partners with expertise in a specific industry area use the platform
+      to manage operational activities including the payment, product authentication,
+      packaging, storage, and shipping processes. The operational efficiencies and
+      excellence enabled by the OrderMatch platform accelerates growth and expansion
+      of a highly scalable marketplace.
     button:
       enable: false
       label: More info
       link: "#"
-  - title: Java Backend
+  - title: StartUp
     images:
     - images/undraw_code_review_l1q9.svg
-    content: A proven technology stack that includes Spring, Java, blah blah blah.
+    content: "•\tAccelerate entry or expansion into an electronic marketplace with
+      a turn-key, highly configurable ERP-like platform  <br><br>•\tExtensive workflows
+      for product processing, delivery, and warehousing <br><br>•\tEasy implementation
+      and startup through API connections to your current business website   <br><br>•\tImmediately
+      earn revenue while making modifications and developing new features"
     button:
       enable: false
       label: Check it out
       link: "#"
-  - title: API Enabled
+  - title: Pricing & Licensing
     images:
     - "/images/undraw_two_factor_authentication_namy.svg"
-    content: Integrate with your existing platform using simple APIs.
+    content: "•\tRevenue sharing through transaction-based performance means minimal
+      upfront investment  <br><br>•\tMultiple revenue streams can arise from sales
+      or trading transactions, shipping, storage, and packaging  <br><br>•\tEliminates
+      the need for real estate investment in physical facilities because it is 100%
+      cloud based  <br><br>•\t Minimal operational overhead because shipping, authentication
+      and storage are provided by trusted operational partners.     <br><br>•\tA single
+      administrator can operate remotely with minimal management controls"
     button:
       enable: false
       label: Check it out
       link: "#"
-  - title: Cloud-based
+  - title: Competitive Advantage
     images:
     - images/undraw_server_cluster_jwwq.svg
-    content: Proven, real-world tested platform hosted in the AWS cloud.
+    content: "  •\tReduced competitive threat is afforded by a robust intellectual
+      property portfolio of proprietary enterprise class software, patented business
+      model, trademarks and a suite of domain names  <br><br>•\tThe OrderMatch UniverseTM
+      Electronic Marketplace platform and patented business model can be used in multiple
+      physical industries including metals, fine wine and spirits, collectibles, video
+      games, luxury goods, and medical supplies  <br><br>•\tThere is an operational
+      website business example that demonstrates full capabilities of OrderMatch UniverseTM"
     button:
       enable: false
       label: More info
       link: "#"
-  - title: Java Backend
+  - title: Trust & Privacy
     images:
     - images/undraw_code_review_l1q9.svg
-    content: A proven technology stack that includes Spring, Java, blah blah blah.
+    content: " •\tParticipants manage their own portfolios and orders  <br><br>•\tCentralized
+      quality control and validation of products and payments offer efficiency and
+      confidence to buyers and sellers   <br><br>•\tElectronic matching of orders
+      from anyone-to-anyone provides pricing transparency, privacy, and one-to-many
+      efficiency  <br><br>•\tThe notion of authentication activities and ability to
+      track according to product regulations and specifications"
     button:
       enable: false
       label: Check it out
       link: "#"
-  - title: API Enabled
+  - title: Product Authentication & Anti-Counterfeiting
     images:
     - "/images/undraw_two_factor_authentication_namy.svg"
-    content: Integrate with your existing platform using simple APIs.
+    content: Combined with a product verification process and the patented business
+      model, the OrderMatch platform supports the most trusted marketplace available.
     button:
       enable: false
       label: Check it out
