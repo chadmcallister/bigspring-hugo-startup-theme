@@ -1,7 +1,7 @@
 ---
 sections:
   enable: true
-  title: Marketplaces
+  title: "Fine Diamonds & Gemstones"
   section_item:
   - name: "[Wine, Spirits, & Beverages](/marketplaces/wine-spirits-and-beverages/)"
     icon: fas fa-wine-glass-alt
