@@ -1,16 +1,28 @@
 ---
-sections:
+service:
   enable: true
-  title: "Firearms & Ammo"
-  section_item:
-  - name: "[Wine, Spirits, & Beverages](/marketplaces/wine-spirits-and-beverages/)"
-    icon: fas fa-wine-glass-alt
-    content: Create a marketplace for wine investors, vintners, producers and suppliers.
-  - name: "[Fine Diamonds & Gemstones](/marketplaces/fine-diamonds-and-gemstones/)"
-    icon: far fa-gem
-    content: Create a marketplace for diamond & gemstone investors, jewelers, graders
-      and certifiers.
-  - name: "[Industrial & Precious Metals](/marketplaces/precious-metals-industrial-metals/)"
-    icon: fas fa-coins
-    content: Create a marketplace for bullion investors, mints & manufacturers, depositories
-      and distributors.
+  service_item:
+  - title: Cloud-based
+    images:
+    - images/undraw_server_cluster_jwwq.svg
+    content: Proven, real-world tested platform hosted in the AWS cloud.
+    button:
+      enable: false
+      label: More info
+      link: "#"
+  - title: Java Backend
+    images:
+    - images/undraw_code_review_l1q9.svg
+    content: A proven technology stack that includes Spring, Java, blah blah blah.
+    button:
+      enable: false
+      label: Check it out
+      link: "#"
+  - title: API Enabled
+    images:
+    - "/images/undraw_two_factor_authentication_namy.svg"
+    content: Integrate with your existing platform using simple APIs.
+    button:
+      enable: false
+      label: Check it out
+      link: "#"
