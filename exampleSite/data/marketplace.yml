@@ -94,10 +94,15 @@ section:
       enable: false
       label: More info
       link: "#"
-  - title: Java Backend
+  - title: Trust & Privacy
     images:
     - images/undraw_code_review_l1q9.svg
-    content: A proven technology stack that includes Spring, Java, blah blah blah.
+    content: " •\tParticipants manage their own portfolios and orders  •\tCentralized
+      quality control and validation of products and payments offer efficiency and
+      confidence to buyers and sellers   •\tElectronic matching of orders from anyone-to-anyone
+      provides pricing transparency, privacy, and one-to-many efficiency  •\tThe notion
+      of authentication activities and ability to track according to product regulations
+      and specifications"
     button:
       enable: false
       label: Check it out
