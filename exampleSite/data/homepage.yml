@@ -1,9 +1,9 @@
 ---
 banner:
-  title: Launch a digital marketplace for your business or industry now!
+  title: Quickly launch a digital marketplace for verified products!
   image: images/banner-art.svg
-  content: 'OrderMatch™ is a robust, enterprise-class software for the creation and
-    operation of an online marketplace. '
+  content: 'OrderMatch™ is a robust, enterprise-class software for the creation <b>and
+    operation</b> of an online marketplace. '
   button:
     enable: true
     label: what is your market?
