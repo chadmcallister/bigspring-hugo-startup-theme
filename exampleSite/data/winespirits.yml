@@ -18,10 +18,13 @@ service:
       enable: false
       label: Check it out
       link: "#"
-  - title: API Enabled
+  - title: Specialized Equipment & Supplies
     images:
     - "/images/undraw_two_factor_authentication_namy.svg"
-    content: Integrate with your existing platform using simple APIs.
+    content: Production and sales sometimes requires specialized equipment or packaging
+      that is not easily accessible or affordable for all volume of producers. OrderMatch
+      UniverseTM can build an electronic marketplace for purchase, rental and cooperative
+      use of equipment or for recycling of packaging and other supplies.
     button:
       enable: false
       label: Check it out
