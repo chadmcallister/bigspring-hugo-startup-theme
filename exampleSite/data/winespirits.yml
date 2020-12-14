@@ -15,7 +15,7 @@ service:
       link: "#"
   - title: Producers & Distributors
     images:
-    - "/images/undraw_heavy_box_agqi.svg"
+    - "/images/undraw_logistics_x4dc.svg"
     content: 'Vintners and Distillers can source the raw materials and components
       for production of their wine or spirits. Vintners, Distillers, and Distributors
       leverage the OrderMatch platform for sales, storage, and distribution. Marketplace
