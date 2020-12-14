@@ -37,10 +37,19 @@ marketplaces:
 section:
   enable: true
   section_item:
-  - title: Cloud-based
+  - title: How It Works
     images:
     - images/undraw_server_cluster_jwwq.svg
-    content: Proven, real-world tested platform hosted in the AWS cloud.
+    content: System verified, self-directed participants begin by opening an account
+      in the secure website portal. Participants then select products to sell and
+      the sale price, or products to purchase and bid the price.  The software matches
+      the buy and sell orders, notifies the buyer and seller of a transaction, keeping
+      participants anonymous from each other.  The operator and/or trusted operational
+      partners with expertise in a specific industry area use the platform to manage
+      operational activities including the payment, product authentication, packaging,
+      storage, and shipping processes. The operational efficiencies and excellence
+      enabled by the OrderMatch platform accelerates growth and expansion of a highly
+      scalable marketplace.
     button:
       enable: false
       label: More info
