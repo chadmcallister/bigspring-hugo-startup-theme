@@ -14,7 +14,22 @@ sections:
   label: Marketplace
 - type: document
   path: exampleSite/data/wine-spirits.yml
-  label: Marketplace
+  label: Wine-Spirits
+- type: document
+  path: exampleSite/data/collectibles-other.yml
+  label: Collectibles-Other
+- type: document
+  path: exampleSite/data/fine-diamonds.yml
+  label: Find-Diamonds
+- type: document
+  path: exampleSite/data/firearms-ammo.yml
+  label: Firearms-Ammo
+- type: document
+  path: exampleSite/data/medical-bio.yml
+  label: Medical-Bio
+- type: document
+  path: exampleSite/data/precious-metals.yml
+  label: Precious-Metals
 - type: document
   path: exampleSite/data/technology.yml
   label: Technology
