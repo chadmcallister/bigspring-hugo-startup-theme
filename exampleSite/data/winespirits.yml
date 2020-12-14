@@ -10,7 +10,7 @@ sections:
       that is easily accessible 24/7.  \n\nThe software handles shipping and storage
       and can incorporate authentication and packaging to provide a chain of custody.
       \ Various measures can be incorporated to eliminate fraud and counterfeiting."
-  - name: Production(/marketplaces/fine-diamonds-and-gemstones/)
+  - name: "[Production](/marketplaces/fine-diamonds-and-gemstones/)"
     icon: far fa-gem
     content: 'Vintners | Distillers | Distributors  Vintners and Distillers can source
       the raw materials and components for production of their wine or spirits. Vintners,
