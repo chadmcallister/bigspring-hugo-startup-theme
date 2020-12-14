@@ -80,10 +80,16 @@ section:
       enable: false
       label: Check it out
       link: "#"
-  - title: Cloud-based
+  - title: Competitive Advantage
     images:
     - images/undraw_server_cluster_jwwq.svg
-    content: Proven, real-world tested platform hosted in the AWS cloud.
+    content: "  •\tReduced competitive threat is afforded by a robust intellectual
+      property portfolio of proprietary enterprise class software, patented business
+      model, trademarks and a suite of domain names  •\tThe OrderMatch UniverseTM
+      Electronic Marketplace platform and patented business model can be used in multiple
+      physical industries including metals, fine wine and spirits, collectibles, video
+      games, luxury goods, and medical supplies.  •\tThere is an operational website
+      business example that demonstrates full capabilities of OrderMatch UniverseTM."
     button:
       enable: false
       label: More info
