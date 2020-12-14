@@ -26,7 +26,7 @@ service:
       enable: false
       label: Check it out
       link: "#"
-  - title: Specialized Equipment & Supplies
+  - title: Equipment & Supplies
     images:
     - "/images/undraw_two_factor_authentication_namy.svg"
     content: Production and sales sometimes requires specialized equipment or packaging
