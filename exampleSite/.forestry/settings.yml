@@ -16,8 +16,8 @@ sections:
   path: exampleSite/data/technology.yml
   label: Technology
 - type: document
-  path: exampleSite/data/pricing.yml
-  label: Pricing
+  path: exampleSite/data/licensing.yml
+  label: Licensing
 - type: heading
   label: Marketplace Pages
 - type: document
@@ -47,8 +47,8 @@ sections:
   path: exampleSite/content/marketplaces/_index.md
   label: Marketplaces
 - type: document
-  path: exampleSite/content/pricing/_index.md
-  label: Pricing
+  path: exampleSite/content/licensing/_index.md
+  label: Licensing
 - type: document
   path: exampleSite/content/technology/_index.md
   label: Technology
