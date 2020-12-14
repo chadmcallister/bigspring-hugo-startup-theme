@@ -20,7 +20,7 @@ URL = "contact"
 name = "Contact Us"
 weight = "1"
 [[menu.footer_middle]]
-URL = "pricing"
+URL = "licensing"
 name = "Licensing"
 weight = ""
 [[menu.footer_middle]]
