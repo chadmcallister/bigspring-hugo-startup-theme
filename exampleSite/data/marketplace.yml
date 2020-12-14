@@ -57,10 +57,10 @@ section:
     images:
     - images/undraw_code_review_l1q9.svg
     content: "•\tAccelerate entry or expansion into an electronic marketplace with
-      a turn-key, highly configurable ERP-like platform.  •\tExtensive workflows for
-      product processing, delivery, and warehousing.  •\tEasy implementation and startup
-      through an API on a current business website.   •\tImmediately earn revenue
-      while making modifications and developing new features"
+      a turn-key, highly configurable ERP-like platform  <br><br>•\tExtensive workflows
+      for product processing, delivery, and warehousing <br><br>•\tEasy implementation
+      and startup through API connections to your current business website   <br><br>•\tImmediately
+      earn revenue while making modifications and developing new features"
     button:
       enable: false
       label: Check it out
