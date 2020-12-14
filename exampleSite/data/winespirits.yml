@@ -1,11 +1,15 @@
 ---
 sections:
   enable: true
-  title: "Wine, Spirits, & Beverages"
+  title: Wine, Spirits, & Beverages
   section_item:
-  - name: "[Wine 1](/marketplaces/wine-spirits-and-beverages/)"
+  - name: Investors & Collectors](/marketplaces/wine-spirits-and-beverages/)
     icon: fas fa-wine-glass-alt
-    content: Create a marketplace for wine investors, vintners, producers and suppliers.
+    content: Investors can source and trade authenticated investment quality wine
+      and spirits and arrange for shipment or storage through a secure web portal
+      that is easily accessible 24/7.  The software handles shipping and storage and
+      can incorporate authentication and packaging to provide a chain of custody.  Various
+      measures can be incorporated to eliminate fraud and counterfeiting.
   - name: "[Wine 2](/marketplaces/fine-diamonds-and-gemstones/)"
     icon: far fa-gem
     content: Create a marketplace for diamond & gemstone investors, jewelers, graders

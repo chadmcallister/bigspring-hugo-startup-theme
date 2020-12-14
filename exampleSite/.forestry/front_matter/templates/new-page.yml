@@ -12,3 +12,4 @@ fields:
   name: description
   label: meta description
 pages:
+- exampleSite/content/features/precious-metals-industrial-metals.md
