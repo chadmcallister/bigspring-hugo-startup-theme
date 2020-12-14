@@ -3,7 +3,7 @@ sections:
   enable: true
   title: Wine, Spirits, & Beverages
   section_item:
-  - name: Investors & Collectors](/marketplaces/wine-spirits-and-beverages/)
+  - name: "[Investors & Collectors](/marketplaces/wine-spirits-and-beverages/)"
     icon: fas fa-wine-glass-alt
     content: Investors can source and trade authenticated investment quality wine
       and spirits and arrange for shipment or storage through a secure web portal
