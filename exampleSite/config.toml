@@ -12,13 +12,21 @@ unsafe = true
 [menu]
 footer_right = []
 [[menu.footer_left]]
+URL = "technology"
+name = "Our Technology"
+weight = "2"
+[[menu.footer_left]]
+URL = "contact"
+name = "Contact Us"
+weight = "1"
+[[menu.footer_middle]]
 URL = "pricing"
 name = "Pricing"
-weight = 1
+weight = ""
 [[menu.footer_middle]]
 URL = "marketplaces"
 name = "Marketplaces"
-weight = 1
+weight = "2"
 [[menu.main]]
 URL = "marketplaces"
 name = "Marketplaces"
