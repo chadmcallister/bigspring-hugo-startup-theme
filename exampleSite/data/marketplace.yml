@@ -38,7 +38,8 @@ section:
   enable: true
   section_item:
   - title: How It Works
-    images: []
+    images:
+    - "/images/undraw_in_progress_ql66.svg"
     content: System verified, self-directed participants begin by opening an account
       in the secure website portal. Participants then select products to sell and
       the sale price, or products to purchase and bid the price.  The software matches
