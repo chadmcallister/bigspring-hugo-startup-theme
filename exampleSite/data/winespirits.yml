@@ -10,10 +10,15 @@ service:
       enable: false
       label: More info
       link: "#"
-  - title: Java Backend
+  - title: 'Production: Vintners | Distillers | Distributors'
     images:
     - images/undraw_code_review_l1q9.svg
-    content: A proven technology stack that includes Spring, Java, blah blah blah.
+    content: 'Vintners and Distillers can source the raw materials and components
+      for production of their wine or spirits. Vintners, Distillers, and Distributors
+      leverage the OrderMatch platform for sales, storage, and distribution. Marketplace
+      participants can be any size buyers and sellers at any point in the supply chain.
+
+'
     button:
       enable: false
       label: Check it out
