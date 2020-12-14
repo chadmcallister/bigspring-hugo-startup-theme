@@ -4,7 +4,7 @@ service:
   service_item:
   - title: Investors & Collectors
     images:
-    - images/undraw_server_cluster_jwwq.svg
+    - "/images/undraw_wine_tasting_30vw.svg"
     content: |
       Investors can source and trade authenticated investment quality wine and spirits and arrange for shipment or storage through a secure web portal that is easily accessible 24/7.
 
