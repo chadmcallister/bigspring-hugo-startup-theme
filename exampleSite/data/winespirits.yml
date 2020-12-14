@@ -7,6 +7,7 @@ service:
     - images/undraw_server_cluster_jwwq.svg
     content: |
       Investors can source and trade authenticated investment quality wine and spirits and arrange for shipment or storage through a secure web portal that is easily accessible 24/7.
+
       The software handles shipping and storage and can incorporate authentication and packaging to provide a chain of custody. Various measures can be incorporated to eliminate fraud and counterfeiting.
     button:
       enable: false
