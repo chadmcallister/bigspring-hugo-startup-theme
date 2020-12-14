@@ -66,7 +66,7 @@ section:
       enable: false
       label: Check it out
       link: "#"
-  - title: Pricing & Licensing
+  - title: Dynamic Licensing
     images:
     - "/images/undraw_two_factor_authentication_namy.svg"
     content: "•\tRevenue sharing through transaction-based performance means minimal
