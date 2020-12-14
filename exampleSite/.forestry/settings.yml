@@ -13,6 +13,14 @@ sections:
   path: exampleSite/data/marketplace.yml
   label: Marketplace
 - type: document
+  path: exampleSite/data/technology.yml
+  label: Technology
+- type: document
+  path: exampleSite/data/pricing.yml
+  label: Pricing
+- type: heading
+  label: Marketplace Pages
+- type: document
   path: exampleSite/data/wine-spirits.yml
   label: Wine-Spirits
 - type: document
@@ -30,12 +38,6 @@ sections:
 - type: document
   path: exampleSite/data/precious-metals.yml
   label: Precious-Metals
-- type: document
-  path: exampleSite/data/technology.yml
-  label: Technology
-- type: document
-  path: exampleSite/data/pricing.yml
-  label: Pricing
 - type: heading
   label: Content
 - type: document
