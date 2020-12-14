@@ -1,40 +1,4 @@
 ---
-basic:
-  name: Distributor
-  info: Best For Small Individuals
-  services:
-  - Test Service
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
-  button:
-    enable: true
-    label: Get started for free
-    link: "#"
-professional:
-  name: Product Validator
-  info: Best For Professionals
-  services:
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
-  - Cloud Service
-  - Best Dashboard
-  button:
-    enable: true
-    label: Get started for free
-    link: "#"
-business:
-  name: Customer Portal
-  info: Best For Large Individuals
-  services:
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
-  button:
-    enable: true
-    label: Get started for free
-    link: "#"
 call_to_action:
   enable: true
   title: Want to configure your licensing agreement for maximum success?
@@ -45,3 +9,30 @@ call_to_action:
     enable: true
     label: Contact Us
     link: contact
+service:
+  enable: true
+  service_item:
+  - title: Cloud-based
+    images:
+    - images/undraw_server_cluster_jwwq.svg
+    content: Proven, real-world tested platform hosted in the AWS cloud.
+    button:
+      enable: false
+      label: More info
+      link: "#"
+  - title: Java Backend
+    images:
+    - images/undraw_code_review_l1q9.svg
+    content: A proven technology stack that includes Spring, Java, blah blah blah.
+    button:
+      enable: false
+      label: Check it out
+      link: "#"
+  - title: API Enabled
+    images:
+    - "/images/undraw_two_factor_authentication_namy.svg"
+    content: Integrate with your existing platform using simple APIs.
+    button:
+      enable: false
+      label: Check it out
+      link: "#"
