@@ -21,22 +21,22 @@ sections:
 - type: heading
   label: Marketplace Pages
 - type: document
-  path: exampleSite/data/wine-spirits.yml
+  path: exampleSite/data/winespirits.yml
   label: Wine-Spirits
 - type: document
-  path: exampleSite/data/collectibles-other.yml
+  path: exampleSite/data/collectiblesother.yml
   label: Collectibles-Other
 - type: document
-  path: exampleSite/data/fine-diamonds.yml
+  path: exampleSite/data/finediamonds.yml
   label: Find-Diamonds
 - type: document
-  path: exampleSite/data/firearms-ammo.yml
+  path: exampleSite/data/firearmsammo.yml
   label: Firearms-Ammo
 - type: document
-  path: exampleSite/data/medical-bio.yml
+  path: exampleSite/data/medicalbio.yml
   label: Medical-Bio
 - type: document
-  path: exampleSite/data/precious-metals.yml
+  path: exampleSite/data/preciousmetals.yml
   label: Precious-Metals
 - type: heading
   label: Content
