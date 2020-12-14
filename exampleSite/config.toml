@@ -9,42 +9,16 @@ theme = "bigspring"
 title = "OrderMatch Universe"
 [markup.goldmark.renderer]
 unsafe = true
+[menu]
+footer_right = []
 [[menu.footer_left]]
 URL = "pricing"
 name = "Pricing"
 weight = 1
-[[menu.footer_left]]
-URL = "#"
-name = "Quick Start"
-weight = 2
-[[menu.footer_left]]
-URL = "#"
-name = "About Us"
-weight = 3
 [[menu.footer_middle]]
 URL = "marketplaces"
 name = "Marketplaces"
 weight = 1
-[[menu.footer_middle]]
-URL = "#"
-name = "Platform"
-weight = 3
-[[menu.footer_middle]]
-URL = "pricing"
-name = "Pricing"
-weight = 2
-[[menu.footer_right]]
-URL = "faq"
-name = "FAQ"
-weight = 1
-[[menu.footer_right]]
-URL = "terms-conditions"
-name = "Terms & Conditions"
-weight = 2
-[[menu.footer_right]]
-URL = "privacy-policy"
-name = "Privacy Policy"
-weight = 3
 [[menu.main]]
 URL = "marketplaces"
 name = "Marketplaces"
@@ -68,6 +42,7 @@ footer_menu_middle = "Product"
 footer_menu_right = "Support"
 logo = "/images/ordermatch-universe-logo.png"
 logo_width = "400px"
+social = []
 [params.navigation_button]
 enable = true
 label = "Get Started"
@@ -91,19 +66,3 @@ link = "plugins/slick/slick.min.js"
 [params.preloader]
 enable = false
 preloader = ""
-[[params.social]]
-icon = "ti-facebook"
-link = "#"
-title = "facebook"
-[[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-title = "twitter"
-[[params.social]]
-icon = "ti-skype"
-link = "#"
-title = "skype"
-[[params.social]]
-icon = "ti-linkedin"
-link = "#"
-title = "linkedin"
