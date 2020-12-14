@@ -1,6 +1,6 @@
 ---
 title: Dynamic Licensing
-layout: pricing
+layout: licensing
 subtitle: Licensing agreements designed to accelerate growth!
 description: This is meta description
 
