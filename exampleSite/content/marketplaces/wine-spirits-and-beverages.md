@@ -1,7 +1,7 @@
 ---
 title: "Wine, Spirits, & Beverages"
+layout: wine-spirits
 subtitle: "Investors | Producers & Distillers | Growers | Suppliers"
-subtitle: A Proven Technology Platform
 description: This is meta description
 
 ---

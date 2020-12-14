@@ -13,6 +13,9 @@ sections:
   path: exampleSite/data/marketplace.yml
   label: Marketplace
 - type: document
+  path: exampleSite/data/wine-spirits.yml
+  label: Marketplace
+- type: document
   path: exampleSite/data/technology.yml
   label: Technology
 - type: document

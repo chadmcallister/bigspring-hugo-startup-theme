@@ -1,7 +1,5 @@
 ---
 title: Marketplaces
-layout: marketplaces
-subtitle: ''
 description: This is meta description
 
 ---
