@@ -10,7 +10,7 @@ banner:
     link: marketplaces
 marketplaces:
   enable: true
-  title: Marketplaces
+  title: Featured Marketplaces
   marketplace_item:
   - name: "[Wine, Spirits, & Beverages](/marketplaces/wine-spirits-and-beverages/)"
     icon: fas fa-wine-glass-alt
