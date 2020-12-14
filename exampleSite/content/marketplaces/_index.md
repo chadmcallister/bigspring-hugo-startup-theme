@@ -1,7 +1,8 @@
 ---
 title: Marketplaces
 layout: marketplaces
-subtitle: Subtitle goes here
+subtitle: OrderMatch™ is a robust, enterprise-class software for the creation and
+  operation of an online marketplace.
 description: This is meta description
 
 ---
