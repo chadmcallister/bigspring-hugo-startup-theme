@@ -11,7 +11,7 @@ sections:
       and can incorporate authentication and packaging to provide a chain of custody.
       \ Various measures can be incorporated to eliminate fraud and counterfeiting."
   - name: "[Production](/marketplaces/fine-diamonds-and-gemstones/)"
-    icon: far fa-gem
+    icon: fas fa-wine-glass-alt
     content: "### Vintners | Distillers | Distributors  \nVintners and Distillers
       can source the raw materials and components for production of their wine or
       spirits. Vintners, Distillers, and Distributors leverage the OrderMatch platform
