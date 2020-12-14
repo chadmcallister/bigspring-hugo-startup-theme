@@ -13,7 +13,7 @@ service:
       enable: false
       label: More info
       link: "#"
-  - title: 'Production: Vintners | Distillers | Distributors'
+  - title: Producers & Distributors
     images:
     - images/undraw_code_review_l1q9.svg
     content: 'Vintners and Distillers can source the raw materials and components
