@@ -1,15 +1,22 @@
 ---
 sections:
   enable: true
-  title: "Wine, Spirits, & Beverages"
+  title: Wine, Spirits, & Beverages
   section_item:
-  - name: "[Wine 1](/marketplaces/wine-spirits-and-beverages/)"
+  - name: Investors & Collectors](/marketplaces/wine-spirits-and-beverages/)
     icon: fas fa-wine-glass-alt
-    content: Create a marketplace for wine investors, vintners, producers and suppliers.
-  - name: "[Wine 2](/marketplaces/fine-diamonds-and-gemstones/)"
+    content: Investors can source and trade authenticated investment quality wine
+      and spirits and arrange for shipment or storage through a secure web portal
+      that is easily accessible 24/7.  The software handles shipping and storage and
+      can incorporate authentication and packaging to provide a chain of custody.  Various
+      measures can be incorporated to eliminate fraud and counterfeiting.
+  - name: Production(/marketplaces/fine-diamonds-and-gemstones/)
     icon: far fa-gem
-    content: Create a marketplace for diamond & gemstone investors, jewelers, graders
-      and certifiers.
+    content: 'Vintners | Distillers | Distributors  Vintners and Distillers can source
+      the raw materials and components for production of their wine or spirits. Vintners,
+      Distillers, and Distributors leverage the OrderMatch platform for sales, storage,
+      and distribution. Marketplace participants can be any size buyers and sellers
+      at any point in the supply chain.  '
   - name: "[Wine 3](/marketplaces/precious-metals-industrial-metals/)"
     icon: fas fa-coins
     content: Create a marketplace for bullion investors, mints & manufacturers, depositories
