@@ -12,9 +12,4 @@ fields:
   name: description
   label: meta description
 pages:
-- exampleSite/content/features/collectibles-other.md
-- exampleSite/content/features/fine-diamonds-and-gemstones.md
-- exampleSite/content/features/firearms-ammo.md
-- exampleSite/content/features/medical-bio.md
 - exampleSite/content/features/precious-metals-industrial-metals.md
-- exampleSite/content/features/wine-spirits-and-beverages.md
