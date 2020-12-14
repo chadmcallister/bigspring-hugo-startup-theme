@@ -1,2 +1,39 @@
 {{ define "main" }}
 {{ partial "page-header.html" . }}
+
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 mx-auto text-center">
+        <p class="mb-4">{{ .Content }}</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- sections -->
+{{ if site.Data.firearmsammo.sections.enable }}
+{{ with site.Data.firearmsammo.sections }}
+<section class="section bg-light">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-12 text-center">
+        <h2 class="section-title">{{ .title | markdownify }}</h2>
+      </div>
+      {{ range .section_item }}
+      <div class="col-md-4 col-sm-6 mb-4">
+        <div class="feature-card text-center">
+          <i class="{{.icon}} mb-3"></i>
+          <h4 class="mb-2">{{ .name | markdownify }}</h4>
+          <p>{{ .content | markdownify }}</p>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- /sections -->
+
+{{ end }}
