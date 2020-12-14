@@ -12,9 +12,9 @@ fields:
   name: description
   label: meta description
 pages:
-- exampleSite/content/marketplaces/collectibles-other.md
-- exampleSite/content/marketplaces/fine-diamonds-and-gemstones.md
-- exampleSite/content/marketplaces/firearms-ammo.md
-- exampleSite/content/marketplaces/medical-bio.md
-- exampleSite/content/marketplaces/precious-metals-industrial-metals.md
-- exampleSite/content/marketplaces/wine-spirits-and-beverages.md
+- exampleSite/content/features/collectibles-other.md
+- exampleSite/content/features/fine-diamonds-and-gemstones.md
+- exampleSite/content/features/firearms-ammo.md
+- exampleSite/content/features/medical-bio.md
+- exampleSite/content/features/precious-metals-industrial-metals.md
+- exampleSite/content/features/wine-spirits-and-beverages.md
