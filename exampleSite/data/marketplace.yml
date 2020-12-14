@@ -69,12 +69,12 @@ section:
     images:
     - "/images/undraw_two_factor_authentication_namy.svg"
     content: "•\tRevenue sharing through transaction-based performance means minimal
-      upfront investment  •\tMultiple revenue streams can arise from sales or trading
-      transactions, shipping, storage, and packaging  •\tEliminates the need for real
-      estate investment in physical facilities because it is 100% cloud based  •\t
-      Minimal operational overhead because shipping, authentication and storage are
-      provided by trusted operational partners.     •\tA single administrator can
-      operate off-site with minimal management controls."
+      upfront investment  <br><br>•\tMultiple revenue streams can arise from sales
+      or trading transactions, shipping, storage, and packaging  <br><br>•\tEliminates
+      the need for real estate investment in physical facilities because it is 100%
+      cloud based  <br><br>•\t Minimal operational overhead because shipping, authentication
+      and storage are provided by trusted operational partners.     <br><br>•\tA single
+      administrator can operate remotely with minimal management controls"
     button:
       enable: false
       label: Check it out
