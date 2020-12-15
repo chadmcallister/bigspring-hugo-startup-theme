@@ -27,8 +27,8 @@ service:
   - title: Authenticators, Graders & Certifiers
     images:
     - "/images/undraw_two_factor_authentication_namy.svg"
-    content: Certification providers leverage the OrderMatch platform to support private
-      sales, vaulting, and distribution while extending their important validation
+    content: Certification providers leverage the OrderMatch™ platform to support
+      private sales, vaulting, and distribution while extending their important validation
       services to the marketplace. Participants can be any size buyers and sellers
       at any point in the supply chain and are easily managed using the platform.
     button:
