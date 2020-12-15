@@ -1,7 +1,7 @@
 ---
-title: Our Technology Stack
+title: Our Technology
 layout: technology
-subtitle: A Proven Technology Platform
+subtitle: A proven transaction-focused technology platform
 description: This is meta description
 menu:
   main:
