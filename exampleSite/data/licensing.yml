@@ -80,7 +80,7 @@ professional:
   - "- Running Royalties for a defined period and type of exclusivity (geographic,
     industry, or product)"
   button:
-    enable: true
+    enable: false
     label: Get started for free
     link: "#"
 business:
