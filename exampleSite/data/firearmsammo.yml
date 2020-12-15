@@ -24,7 +24,7 @@ service:
       enable: false
       label: Check it out
       link: "#"
-  - title: Regulatory
+  - title: Regulatory Bodies & Anti-Regulation Organizations
     images:
     - "/images/undraw_two_factor_authentication_namy.svg"
     content: 'Firearm and ammunitions regulatory bodies or Gun Rights advocates can
