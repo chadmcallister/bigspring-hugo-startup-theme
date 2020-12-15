@@ -59,7 +59,7 @@ service:
       label: Check it out
       link: "#"
 basic:
-  info: ''
+  info: Test 123
   name: Transaction-based License
   services:
   - "- Software provided by OrderMatch UniverseTM at no cost  "
