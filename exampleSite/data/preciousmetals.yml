@@ -27,10 +27,10 @@ service:
   - title: Authenticators, Graders & Certifiers
     images:
     - "/images/undraw_two_factor_authentication_namy.svg"
-    content: Certification providers leverage the OrderMatch platform to support sales,
-      storage, and distribution while extending their validation services in the marketplace.
-      Participants can be any size buyers and sellers at any point in the supply chain
-      and are easily managed using the platform.
+    content: Certification providers leverage the OrderMatch™ platform to support
+      sales, storage, and distribution while extending their validation services in
+      the marketplace. Participants can be any size buyers and sellers at any point
+      in the supply chain and are easily managed using the platform.
     button:
       enable: false
       label: Check it out
