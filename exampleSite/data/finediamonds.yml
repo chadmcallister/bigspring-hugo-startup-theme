@@ -24,10 +24,13 @@ service:
       enable: false
       label: Check it out
       link: "#"
-  - title: API Enabled
+  - title: Authenticators, Graders & Certifiers
     images:
     - "/images/undraw_two_factor_authentication_namy.svg"
-    content: Integrate with your existing platform using simple APIs.
+    content: Certification providers leverage the OrderMatch platform to support private
+      sales, vaulting, and distribution while extending their important validation
+      services to the marketplace. Participants can be any size buyers and sellers
+      at any point in the supply chain and are easily managed using the platform.
     button:
       enable: false
       label: Check it out
