@@ -12,7 +12,7 @@ call_to_action:
 service:
   enable: true
   service_item:
-  - title: Transaction-based License
+  - title: Transaction-Based License
     images:
     - images/undraw_server_cluster_jwwq.svg
     content: |-
