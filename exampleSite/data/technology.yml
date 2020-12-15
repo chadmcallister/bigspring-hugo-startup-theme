@@ -12,7 +12,7 @@ service:
       link: "#"
   - title: Java Backend
     images:
-    - images/undraw_code_review_l1q9.svg
+    - "/images/undraw_javascript_frameworks_8qpc.svg"
     content: A proven technology stack that includes Spring, Java, blah blah blah.
     button:
       enable: false
