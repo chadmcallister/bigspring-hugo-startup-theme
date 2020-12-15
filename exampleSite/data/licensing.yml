@@ -60,7 +60,7 @@ service:
       link: "#"
 basic:
   info: ''
-  name: Transaction-based License
+  name: Transaction-Based License
   services:
   - "- Software provided by OrderMatch UniverseTM at no cost  "
   - "- Licensee is responsible for any modification for their website, API, business
