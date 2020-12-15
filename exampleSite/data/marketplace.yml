@@ -116,15 +116,13 @@ section:
       enable: false
       label: Check it out
       link: "#"
-  - title: Accelerate your marketplace launch now!
-    images:
-    - "/images/undraw_moving_forward_lhhd.svg"
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
-    button:
-      enable: true
-      label: Check it out
-      link: "#"
+call_to_action:
+  enable: true
+  title: Configure your licensing agreement for maximum success?
+  image: "/images/undraw_personal_finance_tqcd-2.svg"
+  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
+    eget amet, tempus eu at consecttur.
+  button:
+    enable: true
+    label: Contact Us
+    link: contact
