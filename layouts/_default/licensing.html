@@ -73,7 +73,7 @@
       <div class="col-lg-4 mb-5 mb-lg-0 px-3 pl-3 px-lg-0">
         {{ with site.Data.licensing.basic }}
         <div class="card shadow">
-          <div class="card-body text-center py-5">
+          <div class="card-body text-left py-5">
             <h3 class="mb-4">{{ .name | markdownify }}</h3>
             <p class="lead">{{ .info | markdownify }}</p>
             <ul class="list-unstyled mb-5">
@@ -93,7 +93,7 @@
       <div class="col-lg-4 col-recommended">
         {{ with site.Data.licensing.professional }}
         <div class="card border-0 shadow-lg">
-          <div class="card-body text-center py-5">
+          <div class="card-body text-left py-5">
             <h3 class="mb-4">{{ .name | markdownify }}</h3>
             <p class="lead">{{ .info | markdownify }}</p>
             <ul class="list-unstyled mb-5">
@@ -113,7 +113,7 @@
       <div class="col-lg-4 mb-5 mb-lg-0 px-3 pr-3 px-lg-0">
         {{ with site.Data.licensing.business }}
         <div class="card shadow">
-          <div class="card-body text-center py-5">
+          <div class="card-body text-left py-5">
             <h3 class="mb-4">{{ .name | markdownify }}</h3>
             <p class="lead">{{ .info | markdownify }}</p>
             <ul class="list-unstyled mb-5">
