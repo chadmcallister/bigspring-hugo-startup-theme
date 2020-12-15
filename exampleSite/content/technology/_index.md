@@ -1,7 +1,7 @@
 ---
 title: Our Technology
 layout: technology
-subtitle: A proven transaction-focused technology platform
+subtitle: Built on a proven transaction-focused technology platform
 description: This is meta description
 menu:
   main:
