@@ -84,12 +84,13 @@ professional:
     label: Get started for free
     link: "#"
 business:
-  name: Customer Portal
-  info: Best For Large Individuals
+  name: Acquisition
+  info: ''
   services:
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
+  - "- Pricing depends upon platforms included in the software purchase"
+  - "- Operate marketplace platforms in numerous industries at various levels"
+  - "- Valuation was done previously for one industry"
+  - "- Proformas available upon entering non-disclosure agreements"
   button:
     enable: true
     label: Get started for free
