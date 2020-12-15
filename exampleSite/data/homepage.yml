@@ -61,7 +61,7 @@ service:
       link: "#"
   - title: Operational Excellence
     images:
-    - "/images/undraw_revenue_3osh.svg"
+    - "/images/undraw_stock_prices_afrt.svg"
     content: '24/7 self-directed and private transactions provide users with high-quality,
       consistent, and repeatable transaction experiences. Third-party portal access
       allows secure outsourcing of operational support activities.
