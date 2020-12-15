@@ -92,6 +92,6 @@ business:
   - "- Valuation was done previously for one industry"
   - "- Proformas available upon entering non-disclosure agreements"
   button:
-    enable: true
+    enable: false
     label: Get started for free
     link: "#"
