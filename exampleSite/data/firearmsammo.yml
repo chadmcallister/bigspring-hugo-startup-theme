@@ -28,7 +28,7 @@ service:
     images:
     - "/images/undraw_two_factor_authentication_namy.svg"
     content: 'Firearm and ammunitions regulatory bodies or Gun Rights advocates can
-      leverage the OrderMatch platform to provide for private sales, liquidation,
+      leverage the OrderMatch™ platform to provide for private sales, liquidation,
       and distribution services in compliance with 2nd Amendment U.S. Constitutional
       rights while excluding bad actors. '
     button:
