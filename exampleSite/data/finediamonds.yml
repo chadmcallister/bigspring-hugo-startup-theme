@@ -8,7 +8,7 @@ service:
     content: |-
       Diamond and Gemstone investors can source and trade validated investment quality gemstones and arrange for vaulting or shipping through a secure web portal that is easily accessible 24/7.
 
-      The software handles trading, shipping, and storage and can incorporate authentication and tamper-evident packaging to provide a secure chain of custody. Various measures can be incorporated to eliminate fraud.
+      The OrderMatch™ software handles trading, shipping, and storage and can incorporate authentication and tamper-evident packaging to provide a secure chain of custody. Various measures can be incorporated to eliminate fraud.
     button:
       enable: false
       label: More info
