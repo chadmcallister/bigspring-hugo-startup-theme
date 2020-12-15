@@ -64,11 +64,7 @@ basic:
   services:
   - "- Once a certain level of transactions is reached, can convert to monthly subscription
     fee based upon volumes"
-  - "- Software provided by OrderMatch UniverseTM at no cost  - Licensee is responsible
-    for any modification for their website, API, business needs  - Payments monthly
-    based upon transaction fees, percent of margin or other volume tracking  - Once
-    a certain level of transactions is reached, can convert to monthly subscription
-    fee based upon volumes"
+  - "- Software provided by OrderMatch UniverseTM at no cost  "
   - "- Licensee is responsible for any modification for their website, API, business
     needs"
   - "- Payments monthly based upon transaction fees, percent of margin or other volume
