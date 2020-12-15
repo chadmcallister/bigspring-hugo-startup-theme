@@ -6,9 +6,9 @@ service:
     images:
     - images/undraw_server_cluster_jwwq.svg
     content: |-
-      Investors can source and trade authenticated investment quality bullion and arrange for secure vaulting or shipping through a secure web portal that is easily accessible 24/7.
+      Precious metals Investors can source and trade authenticated investment quality bullion and arrange for secure vaulting or shipping through a secure web portal that is easily accessible 24/7.
 
-      The software handles shipping and storage and can incorporate authentication and tamper-evident packaging to provide a secure chain of custody. Various measures can be incorporated to eliminate fraud and counterfeiting.
+      The OrderMatch™ software handles shipping and storage and can incorporate authentication and tamper-evident packaging to provide a secure chain of custody. Various measures can be incorporated to eliminate fraud and counterfeiting.
     button:
       enable: false
       label: More info
