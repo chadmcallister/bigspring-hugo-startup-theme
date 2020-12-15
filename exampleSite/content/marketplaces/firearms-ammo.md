@@ -1,6 +1,6 @@
 ---
 title: Firearms & Ammo
-subtitle: Investors | Producers & Distillers | Growers | Suppliers
+subtitle: ''
 layout: firearms-ammo
 description: This is meta description
 
