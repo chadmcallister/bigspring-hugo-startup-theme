@@ -49,7 +49,7 @@ service:
       enable: false
       label: more information
       link: "#"
-  - title: Trust and Privacy
+  - title: Trust & Privacy
     images:
     - "/images/undraw_security_o890.svg"
     content: Centralized quality control, authentication of products, and electronic
