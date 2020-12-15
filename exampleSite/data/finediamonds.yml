@@ -2,7 +2,7 @@
 service:
   enable: true
   service_item:
-  - title: Investors
+  - title: Investors & Collectors
     images:
     - images/undraw_server_cluster_jwwq.svg
     content: |-
