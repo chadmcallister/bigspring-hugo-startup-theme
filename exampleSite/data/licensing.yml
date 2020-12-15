@@ -70,14 +70,15 @@ basic:
   - "- Once a certain level of transactions is reached, can convert to monthly subscription
     fee based upon volumes"
 professional:
-  name: Product Validator
-  info: Best For Professionals
+  name: Standard Royalty License
+  info: ''
   services:
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
-  - Cloud Service
-  - Best Dashboard
+  - "- Software provided by Ordermatch UniverseTM for lump sum royalty fee"
+  - "- Licensee is responsible for any modification for their website, API, business
+    needs"
+  - "- Running Royalty based upon percent of net revenue"
+  - "- Running Royalties for a defined period and type of exclusivity (geographic,
+    industry, or product)"
   button:
     enable: true
     label: Get started for free
