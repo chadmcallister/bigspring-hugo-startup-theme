@@ -73,7 +73,7 @@ service:
       link: "#"
   - title: Why a platform for authenticated products?
     images:
-    - "/images/undraw_inspection_re_tbt7.svg"
+    - "/images/undraw_certification_aif8.svg"
     content: Product authentication is key to bringing trust to a marketplace. Our
       patented marketplace model combines validated product,  buyer-seller privacy,
       anyone-to-anyone (A2A) and one-to-many order matching capabilities to create
