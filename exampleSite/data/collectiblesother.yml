@@ -22,10 +22,16 @@ service:
       enable: false
       label: More info
       link: "#"
-  - title: Java Backend
+  - title: Aromatics
     images:
     - images/undraw_code_review_l1q9.svg
-    content: A proven technology stack that includes Spring, Java, blah blah blah.
+    content: Aromatics include benzene, toluene, and xylene which are raw materials
+      for making dyes, synthetic detergents, polystyrene and epoxy resins. Buy and
+      sell function capabilities and order matching for aromatics is like the capabilities
+      for olefins. In an international market many regulations affect shipping and
+      storage. OrderMatchTM software has the capability to monitor these regulations
+      and authenticate product. It also has the capability to track the shipping cargo
+      containing the products.
     button:
       enable: false
       label: Check it out
