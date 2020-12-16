@@ -33,7 +33,7 @@ marketplaces:
     content: Create a marketplace for firearm collectors, manufacturers, retailers
       and distributors.
   - name: "[Petrochemicals](/marketplaces/petrochemicals/)"
-    icon: far fa-flask
+    icon: fas fa-flask
     content: Create a marketplace for petrochemicals.
 service:
   enable: true
