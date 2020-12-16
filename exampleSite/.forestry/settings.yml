@@ -28,7 +28,7 @@ sections:
   label: Petrochemicals
 - type: document
   path: exampleSite/data/finediamonds.yml
-  label: Find-Diamonds
+  label: Fine-Diamonds
 - type: document
   path: exampleSite/data/firearmsammo.yml
   label: Firearms-Ammo
