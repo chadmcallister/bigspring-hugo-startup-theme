@@ -13,7 +13,7 @@ marketplaces:
   marketplace_item:
   - name: "[Petrochemicals](/marketplaces/petrochemicals/)"
     icon: far fa-gem
-    content: Create a marketplace for petrochemicals
+    content: Create a marketplace for petrochemicals blah blah blah blah blah
   - name: "[Wine, Spirits & Beverages](/marketplaces/wine-spirits-and-beverages/)"
     icon: fas fa-wine-glass-alt
     content: Create a marketplace for wine investors, vintners, producers and suppliers.
