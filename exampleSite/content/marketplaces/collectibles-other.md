@@ -1,6 +1,6 @@
 ---
-title: "Collectibles & Other"
-subtitle: "Investors | Mints | Manufacturers | Suppliers"
+title: Petrochemicals
+subtitle: ''
 layout: collectibles-other
 description: This is meta description
 
