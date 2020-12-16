@@ -31,10 +31,15 @@ service:
       enable: false
       label: Check it out
       link: "#"
-  - title: API Enabled
+  - title: Medical Supplies
     images:
     - "/images/undraw_two_factor_authentication_namy.svg"
-    content: Integrate with your existing platform using simple APIs.
+    content: In the healthcare industry, both specialized and commodity equipment
+      and supplies can experience periods of shortages. In addition, oversupply may
+      occur at individual facilities. The OrderMatchTM software serves as a marketplace
+      where medical facilities of all sizes can locate, buy and sell products with
+      other participants on a website. The recent pandemic-related need for PPE and
+      other supplies demonstrates the need for an easy to access marketplace.
     button:
       enable: false
       label: Check it out
