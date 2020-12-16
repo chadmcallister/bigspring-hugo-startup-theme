@@ -11,6 +11,9 @@ marketplaces:
   enable: true
   title: Marketplaces
   marketplace_item:
+  - name: Petrochemicals
+    icon: ''
+    content: ''
   - name: "[Wine, Spirits & Beverages](/marketplaces/wine-spirits-and-beverages/)"
     icon: fas fa-wine-glass-alt
     content: Create a marketplace for wine investors, vintners, producers and suppliers.
@@ -30,9 +33,6 @@ marketplaces:
     icon: fas fa-shield-alt
     content: Create a marketplace for firearm collectors, manufacturers, retailers
       and distributors.
-  - name: "[Petrochemicals](/marketplaces/collectibles-other/)"
-    icon: fas fa-archive
-    content: Create a marketplace for petrochemicals.
 section:
   enable: true
   section_item:
