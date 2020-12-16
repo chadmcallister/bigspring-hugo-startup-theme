@@ -36,10 +36,19 @@ service:
       enable: false
       label: Check it out
       link: "#"
-  - title: API Enabled
+  - title: Resins
     images:
     - "/images/undraw_two_factor_authentication_namy.svg"
-    content: Integrate with your existing platform using simple APIs.
+    content: Olefins are made into resin pellets by plastic manufacturers for sale
+      to downstream consumer product manufacturers. OrderMatchTM software allows resin
+      buyers and sellers to list product by density, catalyst used for manufacture,
+      and other specifications relevant for the manufacture of end-products such as
+      milk bottles, film, and automobile parts. Sellers list the price for each product,
+      buyers bid a price and the software conducts a transaction when the prices match.
+      Buyers and sellers are anonymous to each other, eliminating competitive collusion.
+      The website shows offerings 24/7 and allows transactions to be self-directed.
+      Authentication can be included in operations and shipping, storage, and payment
+      functions operate with minimal administrative oversight.
     button:
       enable: false
       label: Check it out
