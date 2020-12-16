@@ -24,8 +24,8 @@ sections:
   path: exampleSite/data/winespirits.yml
   label: Wine-Spirits
 - type: document
-  path: exampleSite/data/collectiblesother.yml
-  label: Collectibles-Other
+  path: exampleSite/data/petrochemicals.yml
+  label: Petrochemicals
 - type: document
   path: exampleSite/data/finediamonds.yml
   label: Find-Diamonds

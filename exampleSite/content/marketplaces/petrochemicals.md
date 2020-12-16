@@ -1,7 +1,7 @@
 ---
 title: Petrochemicals
 subtitle: ''
-layout: collectibles-other
+layout: petrochemicals
 description: This is meta description
 
 ---

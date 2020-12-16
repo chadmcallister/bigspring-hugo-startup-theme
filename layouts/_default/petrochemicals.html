@@ -12,8 +12,8 @@
 </section>
 
 <!-- service -->
-{{ if site.Data.collectiblesother.service.enable }}
-{{ with site.Data.collectiblesother.service }}
+{{ if site.Data.petrochemicals.service.enable }}
+{{ with site.Data.petrochemicals.service }}
 {{ range $i,$p := .service_item }}
 {{if modBool $i 2}}
 <section class="section bg-light">
