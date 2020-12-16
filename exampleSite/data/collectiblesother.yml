@@ -2,10 +2,22 @@
 service:
   enable: true
   service_item:
-  - title: Cloud-based
+  - title: Olefins
     images:
     - images/undraw_server_cluster_jwwq.svg
-    content: Proven, real-world tested platform hosted in the AWS cloud.
+    content: Olefins include ethylene, propylene and butadiene, the raw materials
+      for many plastics. Multiple manufacturers make and store these raw materials.
+      Plastic manufacturers employ traders to bid for the raw materials and arrange
+      shipping or storage. OrderMatchTM software can provide a marketplace allowing
+      olefin manufacturers to enter prices and plastic manufacturers to enter bids
+      to buy. The software conducts a transaction when the buy and sell price match.
+      Shipping, storage and payment is arranged by the administrative functions of
+      the software. Credit qualifications for buyers can be entered and hold or release
+      functions set. The software can handle any size buyer or seller and any size
+      transaction, even if multiple orders to one buyer or seller. Buyers and sellers
+      are anonymous to each other. The software provides a more efficient platform
+      for traders and in some cases customers and manufacturers can conduct self-directed
+      transactions without intermediaries.
     button:
       enable: false
       label: More info
