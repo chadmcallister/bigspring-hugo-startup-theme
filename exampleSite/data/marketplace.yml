@@ -28,7 +28,7 @@ marketplaces:
       and supplies.
   - name: "[Petrochemicals](/marketplaces/petrochemicals/)"
     icon: fas fa-flask
-    content: Create a marketplace for petrochemicals blah blah blah blah blah
+    content: Create a marketplace for petrochemicals.
   - name: "[Firearms & Ammo](/marketplaces/firearms-ammo/)"
     icon: fas fa-shield-alt
     content: Create a marketplace for firearm collectors, manufacturers, retailers
