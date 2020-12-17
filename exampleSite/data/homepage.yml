@@ -28,13 +28,13 @@ marketplaces:
     icon: fas fa-briefcase-medical
     content: Create a marketplace for plasma, cannabis, CBDs, and other bio material
       and supplies.
+  - name: "[Petrochemicals](/marketplaces/petrochemicals/)"
+    icon: fas fa-flask
+    content: Create a marketplace for petrochemicals.
   - name: "[Firearms & Ammo](/marketplaces/firearms-ammo/)"
     icon: fas fa-shield-alt
     content: Create a marketplace for firearm collectors, manufacturers, retailers
       and distributors.
-  - name: "[Petrochemicals](/marketplaces/petrochemicals/)"
-    icon: fas fa-flask
-    content: Create a marketplace for petrochemicals.
 service:
   enable: true
   service_item:
