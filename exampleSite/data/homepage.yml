@@ -30,7 +30,8 @@ marketplaces:
       and supplies.
   - name: "[Petrochemicals](/marketplaces/petrochemicals/)"
     icon: fas fa-flask
-    content: Create a marketplace for petrochemicals.
+    content: Create a marketplace for petrochemicals suppliers, plastics manufacturers,
+      and consumer product producers.
   - name: "[Firearms & Ammo](/marketplaces/firearms-ammo/)"
     icon: fas fa-shield-alt
     content: Create a marketplace for firearm collectors, manufacturers, retailers
