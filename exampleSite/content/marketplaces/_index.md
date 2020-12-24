@@ -3,4 +3,4 @@ title: Marketplaces
 description: This is meta description
 
 ---
-OrderMatch Universe™ is an enterprise class software platform that can quickly grow an electronic marketplace in the fine wine, fine spirits or specialized beverage industries and help manage the resulting supply chains. Anyone-to-anyone and one-to-many transactions support any-sized participant allowing universal access to the marketplace. Various industry segments including investment, production and sales, and specialized equipment can leverage the platform.
+OrderMatch Universe™ is an enterprise class software platform to launch, operate, and quickly grow an online marketplace. The platform facilitates handling large volumes of low-margin transactions in fast moving commodities markets where precision and accuracy are paramount. Back-end performance and operational features are designed to handle high-growth business environments. Anyone-to-anyone and one-to-many transactions support any-sized participant allows universal access to the marketplace. 
