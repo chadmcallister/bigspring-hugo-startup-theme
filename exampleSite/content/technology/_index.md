@@ -1,7 +1,7 @@
 ---
 title: Our Technology
 layout: technology
-subtitle: Built on a proven transaction-focused technology platform
+subtitle: Built on a proprietary transaction-focused technology platform
 description: This is meta description
 menu:
   main:
@@ -9,4 +9,4 @@ menu:
     weight: 2
 
 ---
-The OrderMatch™ platform was created to handle large volumes of low-margin transactions in fast moving commodities markets where precision and accuracy are paramount. Back-end performance and operational features are designed to handle high-growth business environments. 
+The OrderMatch™ platform was created to handle large volumes of low-margin transactions in fast moving commodities markets where precision and accuracy are paramount. The patented business model provides back-end performance and operational features designed to handle high-growth business environments.
