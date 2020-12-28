@@ -30,7 +30,7 @@ service:
     images:
     - images/undraw_code_review_l1q9.svg
     content: |+
-      - Software provided by Ordermatch UniverseTM for lump sum royalty fee
+      - Software provided by OrderMatch Universe™ for lump sum royalty fee
 
       - Licensee is responsible for any modification for their website, API, business needs
 
