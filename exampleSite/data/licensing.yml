@@ -15,7 +15,7 @@ service:
     images:
     - images/undraw_server_cluster_jwwq.svg
     content: |-
-      - Software provided by OrderMatch UniverseTM at no cost
+      - Software provided by OrderMatch Universe™ at no cost
 
       - Licensee is responsible for any modification for their website, API, business needs
 
