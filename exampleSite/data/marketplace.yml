@@ -45,11 +45,10 @@ section:
       the sale price, or products to purchase and bid the price.  The software matches
       the buy and sell orders, notifies the buyer and seller of a transaction, keeping
       participants anonymous from each other.  <br><br>The operator and/or trusted
-      operational partners with expertise in a specific industry area use the platform
-      to manage operational activities including the payment, product authentication,
-      packaging, storage, and shipping processes. The operational efficiencies and
-      excellence enabled by the OrderMatch™ platform accelerates growth and expansion
-      of a highly scalable marketplace.
+      expert partners use the platform to manage operational activities including
+      the payment, product authentication, packaging, storage, and shipping processes.
+      The operational efficiencies and excellence enabled by the OrderMatch™ platform
+      accelerates growth and expansion of a highly scalable marketplace.
     button:
       enable: false
       label: More info
