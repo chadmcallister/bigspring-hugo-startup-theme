@@ -90,7 +90,7 @@ call_to_action:
   enable: true
   title: Accelerate your marketplace <br> launch now!
   image: "/images/undraw_moving_forward_lhhd.svg"
-  content: Tell us more about your business and market.
+  content: Start now to launch your online marketplace.
   button:
     enable: true
     label: Contact Us
