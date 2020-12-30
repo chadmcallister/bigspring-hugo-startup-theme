@@ -93,5 +93,5 @@ call_to_action:
   content: ''
   button:
     enable: true
-    label: Contact Us
+    label: Start Now!
     link: contact
