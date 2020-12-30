@@ -88,7 +88,7 @@ screenshot:
   image: images/screenshot.svg
 call_to_action:
   enable: true
-  title: Accelerate your marketplace <br> launch now!
+  title: Start now to launch <br> your online marketplace!
   image: "/images/undraw_moving_forward_lhhd.svg"
   content: Start now to launch your online marketplace.
   button:
