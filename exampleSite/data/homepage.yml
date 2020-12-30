@@ -90,7 +90,7 @@ call_to_action:
   enable: true
   title: Start now to launch <br> your online marketplace!
   image: "/images/undraw_moving_forward_lhhd.svg"
-  content: Start now to launch your online marketplace.
+  content: ''
   button:
     enable: true
     label: Contact Us
