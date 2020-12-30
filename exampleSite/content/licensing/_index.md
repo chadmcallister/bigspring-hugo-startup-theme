@@ -1,5 +1,5 @@
 ---
-title: Dynamic Licensing
+title: Dynamic Licensing with Minimum Investment
 layout: licensing
 subtitle: Licensing agreements designed to accelerate growth!
 description: This is meta description
