@@ -26,3 +26,12 @@ service:
       enable: false
       label: Check it out
       link: "#"
+call_to_action:
+  enable: true
+  title: Configure your licensing agreement to maximize revenue streams.
+  image: "/images/undraw_personal_finance_tqcd-2.svg"
+  content: ''
+  button:
+    enable: false
+    label: Contact Us
+    link: contact
