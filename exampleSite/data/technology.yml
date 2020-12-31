@@ -28,7 +28,7 @@ service:
       link: "#"
 call_to_action:
   enable: true
-  title: Configure your licensing agreement to maximize revenue streams.
+  title: See how easy it is to add to your website.
   image: "/images/undraw_personal_finance_tqcd-2.svg"
   content: ''
   button:
