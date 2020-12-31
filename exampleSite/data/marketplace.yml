@@ -119,7 +119,7 @@ call_to_action:
   enable: true
   title: Explore applications for your industry.
   image: "/images/undraw_personal_finance_tqcd-2.svg"
-  content: Testing 123
+  content: ''
   button:
     enable: true
     label: Contact Us
