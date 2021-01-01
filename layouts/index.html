@@ -50,7 +50,7 @@
 <!-- service -->
 {{ if site.Data.homepage.service.enable }}
 {{ with site.Data.homepage.service }}
-{{ range $i,$p := .service_item }}
+{{ range $i,$p := .section_item }}
 {{if modBool $i 2}}
 <section class="section">
   <div class="container">
