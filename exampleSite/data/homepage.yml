@@ -38,54 +38,85 @@ marketplaces:
       and distributors.
 service:
   enable: true
-  service_item:
-  - title: 'Competitive Advantage '
+  section_item:
+  - title: How It Works
     images:
-    - "/images/undraw_investing_7u74.svg"
-    content: Electronic marketplace platform and patented business model can be used
-      in multiple physical industries including metals, fine wine and spirits, collectibles,
-      video games, luxury goods, and medical supplies.
+    - "/images/undraw_in_progress_ql66.svg"
+    content: System verified, self-directed participants begin by opening an account
+      in the secure website portal. Participants then select products to sell and
+      the sale price, or products to purchase and bid the price.  The software matches
+      the buy and sell orders, notifies the buyer and seller of a transaction, keeping
+      participants anonymous from each other.  <br><br>The operator and/or trusted
+      expert partners use the platform to manage operational activities including
+      the payment, product authentication, packaging, storage, and shipping processes.
+      The operational efficiencies and excellence enabled by the OrderMatch™ platform
+      accelerates growth and expansion of a highly scalable marketplace.
     button:
       enable: false
-      label: more information
+      label: More info
+      link: "#"
+  - title: Quick StartUp
+    images:
+    - "/images/undraw_runner_start_x0uu.svg"
+    content: "•\tAccelerate entry or expansion into an electronic marketplace with
+      a turn-key, highly configurable ERP-like platform  <br><br>•\tExtensive workflows
+      for product processing, delivery, and warehousing <br><br>•\tEasy implementation
+      and startup through API connections to your current business website   <br><br>•\tImmediately
+      earn revenue while making modifications and developing new features"
+    button:
+      enable: false
+      label: Check it out
+      link: "#"
+  - title: Dynamic Licensing
+    images:
+    - "/images/undraw_two_factor_authentication_namy.svg"
+    content: "•\tRevenue sharing through transaction-based performance means minimal
+      upfront investment  <br><br>•\tMultiple revenue streams can arise from sales
+      or trading transactions, shipping, storage, and packaging  <br><br>•\tEliminates
+      the need for real estate investment in physical facilities because it is 100%
+      cloud based  <br><br>•\t Minimal operational overhead because shipping, authentication
+      and storage are provided by trusted operational partners.     <br><br>•\tA single
+      administrator can operate remotely with minimal management controls"
+    button:
+      enable: false
+      label: Check it out
+      link: "#"
+  - title: Competitive Advantage
+    images:
+    - "/images/undraw_finish_line_katerina_limpitsouni_xy20.svg"
+    content: "  •\tReduced competitive threat is afforded by a robust intellectual
+      property portfolio of proprietary enterprise class software, patented business
+      model, trademarks and a suite of domain names  <br><br>•\tThe OrderMatch UniverseTM
+      Electronic Marketplace platform and patented business model can be used in multiple
+      physical industries including metals, fine wine and spirits, collectibles, video
+      games, luxury goods, and medical supplies  <br><br>•\tThere is an operational
+      website business example that demonstrates full capabilities of OrderMatch UniverseTM"
+    button:
+      enable: false
+      label: More info
       link: "#"
   - title: Trust & Privacy
     images:
     - "/images/undraw_security_o890.svg"
-    content: Centralized quality control, authentication of products, and electronic
-      order-matching from anyone-to-anyone provides pricing transparency, privacy,
-      and one-to-many efficiency.
+    content: " •\tParticipants manage their own portfolios and orders  <br><br>•\tCentralized
+      quality control and validation of products and payments offer efficiency and
+      confidence to buyers and sellers   <br><br>•\tElectronic matching of orders
+      from anyone-to-anyone provides pricing transparency, privacy, and one-to-many
+      efficiency  <br><br>•\tThe notion of authentication activities and ability to
+      track according to product regulations and specifications"
     button:
       enable: false
       label: Check it out
       link: "#"
-  - title: Operational Excellence
+  - title: Product Authentication & Anti-Counterfeiting
     images:
-    - "/images/undraw_stock_prices_afrt.svg"
-    content: '24/7 self-directed and private transactions provide users with high-quality,
-      consistent, and repeatable transaction experiences. Third-party portal access
-      allows secure outsourcing of operational support activities.
-
-'
+    - "/images/undraw_two_factor_authentication_namy.svg"
+    content: Combined with a product verification process and the patented business
+      model, the OrderMatch platform supports the most trusted marketplace available.
     button:
       enable: false
       label: Check it out
       link: "#"
-  - title: Why a platform for authenticated products?
-    images:
-    - "/images/undraw_certification_aif8.svg"
-    content: Product authentication is key to bringing trust to a marketplace. Our
-      patented marketplace model combines validated product,  buyer-seller privacy,
-      anyone-to-anyone (A2A) and one-to-many order matching capabilities to create
-      the most trusted marketplace available.
-    button:
-      enable: false
-      label: Check it out
-      link: "#"
-screenshot:
-  enable: false
-  title: Accelerate your marketplace <br> launch now!
-  image: images/screenshot.svg
 call_to_action:
   enable: true
   title: Launch your online marketplace!
