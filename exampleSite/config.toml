@@ -6,7 +6,7 @@ languageName = "En"
 paginate = "3"
 summaryLength = "15"
 theme = "bigspring"
-title = "OrderMatch Universe"
+title = "OrderMatch Universe™"
 [markup.goldmark.renderer]
 unsafe = true
 [menu]
