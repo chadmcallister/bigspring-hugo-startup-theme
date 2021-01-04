@@ -48,7 +48,7 @@ footer_content = "OrderMatchUniverse™, the OrderMatch™ software, and all ass
 footer_menu_left = "Company"
 footer_menu_middle = "Product"
 footer_menu_right = "Support"
-logo = "/images/ordermatch-universe-logo.png"
+logo = "/images/omu-logo-with-tagline.png"
 logo_width = "300px"
 social = []
 [params.navigation_button]
