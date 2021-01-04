@@ -10,10 +10,10 @@ service:
       enable: false
       label: More info
       link: "#"
-  - title: Java Backend
+  - title: Java Backend for Transaction Scalability
     images:
     - "/images/undraw_code_review_l1q9.svg"
-    content: A proven technology stack that includes Spring, Java, blah blah blah.
+    content: A proven technology stack that includes Spring, Java, and Postgres database.
     button:
       enable: false
       label: Check it out
