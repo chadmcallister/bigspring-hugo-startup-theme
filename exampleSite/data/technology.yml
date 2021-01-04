@@ -22,7 +22,7 @@ service:
   - title: API Enabled
     images:
     - "/images/undraw_two_factor_authentication_namy.svg"
-    content: Integrate with your existing platform using simple APIs.
+    content: Integrate with your existing or other platforms using APIs.
     button:
       enable: false
       label: Check it out
