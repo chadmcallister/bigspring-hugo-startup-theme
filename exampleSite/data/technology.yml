@@ -14,7 +14,7 @@ service:
   - title: Java Backend for Transaction Scalability
     images:
     - "/images/undraw_code_review_l1q9.svg"
-    content: OrderMatch™ runs on Java and a Postgres database. Other databases can
+    content: OrderMatch™ runs on Java and a PostgreSQL database. Other databases can
       be supported.
     button:
       enable: false
