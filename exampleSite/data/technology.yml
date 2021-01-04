@@ -14,7 +14,8 @@ service:
   - title: Java Backend for Transaction Scalability
     images:
     - "/images/undraw_code_review_l1q9.svg"
-    content: A proven technology stack that includes Spring, Java, and Postgres database.
+    content: Ordermatch runs on Java and a Postgres database. Other databases can
+      be supported.
     button:
       enable: false
       label: Check it out
