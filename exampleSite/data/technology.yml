@@ -5,7 +5,8 @@ service:
   - title: Cloud-based
     images:
     - images/undraw_server_cluster_jwwq.svg
-    content: Proven, real-world tested platform hosted in the AWS cloud.
+    content: Proven, real-world tested platform hosted in the AWS cloud for ultimate
+      security and scalability.
     button:
       enable: false
       label: More info
