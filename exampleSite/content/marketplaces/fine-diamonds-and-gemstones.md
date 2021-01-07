@@ -1,6 +1,6 @@
 ---
 title: Fine Diamonds and Gemstones
-subtitle: Investors | Cutters | Jewelers | Graders
+subtitle: ''
 layout: fine-diamonds
 description: This is meta description
 
