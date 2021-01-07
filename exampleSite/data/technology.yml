@@ -14,8 +14,9 @@ service:
   - title: Java Backend for Transaction Scalability
     images:
     - "/images/undraw_code_review_l1q9.svg"
-    content: OrderMatch™ runs on Java and a PostgreSQL database. Other databases can
-      be supported.
+    content: OrderMatch™ software is written in Java and uses a PostgreSQL database.
+      Other databases can be supported and API integration is possible to other software
+      platforms.
     button:
       enable: false
       label: Check it out
