@@ -33,7 +33,7 @@ marketplaces:
       material and supplies.
   - name: "[Firearms & Ammo](/marketplaces/firearms-ammo/)"
     icon: fas fa-shield-alt
-    content: Create a marketplace for firearm collectors, manufacturers, retailers
+    content: Create an online marketplace for firearm collectors, manufacturers, retailers
       and distributors.
 section:
   enable: true
