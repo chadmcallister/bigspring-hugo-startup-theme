@@ -1,6 +1,6 @@
 ---
 title: Medical & Bio
-subtitle: Investors | Mints | Manufacturers | Suppliers
+subtitle: ''
 layout: medical-bio
 description: This is meta description
 
