@@ -49,7 +49,7 @@ footer_menu_left = "Company"
 footer_menu_middle = "Product"
 footer_menu_right = "Support"
 logo = "/images/omu-logo-with-tagline.png"
-logo_width = "350px"
+logo_width = "360px"
 social = []
 [params.navigation_button]
 enable = true
