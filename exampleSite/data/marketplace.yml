@@ -13,15 +13,15 @@ marketplaces:
   marketplace_item:
   - name: "[Industrial & Precious Metals](/marketplaces/precious-metals-industrial-metals/)"
     icon: fas fa-coins
-    content: Create a marketplace for bullion investors, mints & manufacturers, depositories
-      and distributors.
+    content: Create an online marketplace for bullion investors, mints & manufacturers,
+      depositories and distributors.
   - name: "[Fine Diamonds & Gemstones](/marketplaces/fine-diamonds-and-gemstones/)"
     icon: far fa-gem
-    content: Create a marketplace for diamond & gemstone investors, jewelers, graders
-      and certifiers.
+    content: Create an online marketplace for diamond & gemstone investors, jewelers,
+      graders and certifiers.
   - name: "[Petrochemicals](/marketplaces/petrochemicals/)"
     icon: fas fa-flask
-    content: Create a marketplace for petrochemicals suppliers, plastics manufacturers,
+    content: Create an online marketplace for petrochemicals suppliers, plastics manufacturers,
       and consumer product producers.
   - name: "[Wine, Spirits & Beverages](/marketplaces/wine-spirits-and-beverages/)"
     icon: fas fa-wine-glass-alt
