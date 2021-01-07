@@ -25,7 +25,8 @@ marketplaces:
       and consumer product producers.
   - name: "[Wine, Spirits & Beverages](/marketplaces/wine-spirits-and-beverages/)"
     icon: fas fa-wine-glass-alt
-    content: Create a marketplace for wine investors, vintners, producers and suppliers.
+    content: Create an online marketplace for wine investors, vintners, producers
+      and suppliers.
   - name: "[Medical & Bio](/marketplaces/medical-bio/)"
     icon: fas fa-briefcase-medical
     content: Create a marketplace for plasma, cannabis, CBDs, and other bio material
