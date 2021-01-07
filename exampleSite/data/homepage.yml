@@ -86,11 +86,12 @@ service:
     - "/images/undraw_finish_line_katerina_limpitsouni_xy20.svg"
     content: "  •\tReduced competitive threat is afforded by a robust intellectual
       property portfolio of proprietary enterprise class software, patented business
-      model, trademarks and a suite of domain names  <br><br>•\tThe OrderMatch UniverseTM
+      model, trademarks and a suite of domain names.  <br><br>•\tThe OrderMatch Universe™
       Electronic Marketplace platform and patented business model can be used in multiple
       physical industries including metals, fine wine and spirits, collectibles, video
-      games, luxury goods, and medical supplies  <br><br>•\tThere is an operational
-      website business example that demonstrates full capabilities of OrderMatch UniverseTM"
+      games, luxury goods, and medical supplies.  <br><br>•\tThere is an operational
+      website business example that demonstrates full capabilities of the OrderMatch
+      Universe™ business model."
     button:
       enable: false
       label: More info
