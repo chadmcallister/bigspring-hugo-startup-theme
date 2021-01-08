@@ -6,7 +6,7 @@ languageName = "En"
 paginate = "3"
 summaryLength = "15"
 theme = "bigspring"
-title = "OrderMatch Universe™: offers an enterprise-class exchange software for the creation and operation of an online marketplace "
+title = "OrderMatch Universe™: offers an enterprise-class exchange software for an online marketplace "
 [markup.goldmark.renderer]
 unsafe = true
 [menu]
