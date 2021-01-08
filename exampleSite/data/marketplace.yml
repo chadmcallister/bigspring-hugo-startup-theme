@@ -21,7 +21,7 @@ marketplaces:
       graders and certifiers.
   - name: "[Petrochemicals](/marketplaces/petrochemicals/)"
     icon: fas fa-flask
-    content: Create an online marketplace for petrochemicals suppliers, plastics manufacturers,
+    content: Create a marketplace for petrochemicals suppliers, plastics manufacturers,
       and consumer product producers.
   - name: "[Wine, Spirits & Beverages](/marketplaces/wine-spirits-and-beverages/)"
     icon: fas fa-wine-glass-alt
