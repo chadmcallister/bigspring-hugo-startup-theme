@@ -6,7 +6,7 @@ languageName = "En"
 paginate = "3"
 summaryLength = "15"
 theme = "bigspring"
-title = "OrderMatch Universe™: offers an enterprise-class exchange software for an online marketplace "
+title = "OrderMatchUniverse™: create and operate an online marketplace. "
 [markup.goldmark.renderer]
 unsafe = true
 [menu]
@@ -43,7 +43,7 @@ weight = 3
 author = "Themefisher"
 contact_form_action = "#"
 copyright = "OrderMatchUniverse™ 2020-2021"
-description = "Enterprise-class software for the creation and operation of an online marketplace."
+description = "OrderMatchUniverse™ | Enterprise-class software for the creation and operation of an online marketplace."
 footer_content = "OrderMatchUniverse™, the OrderMatch™ software, and all associated intellectual property are owned and operated by Quinmar LLC, a Texas Limited Liability Company."
 footer_menu_left = "Company"
 footer_menu_middle = "Product"
