@@ -6,7 +6,7 @@ languageName = "En"
 paginate = "3"
 summaryLength = "15"
 theme = "bigspring"
-title = "OrderMatchUniverse™: create and operate an online marketplace. "
+title = "OrderMatchUniverse™: Software platform to create and operate an online marketplace. "
 [markup.goldmark.renderer]
 unsafe = true
 [menu]
