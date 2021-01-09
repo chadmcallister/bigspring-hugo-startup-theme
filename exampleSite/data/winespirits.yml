@@ -17,7 +17,7 @@ service:
     images:
     - "/images/undraw_logistics_x4dc.svg"
     content: |-
-      OrderMatchTM software can create an Anyone-to-Anyone online marketplace for vintners and growers to locate and acquire the raw materials for wine production.
+      OrderMatch™ software can create an Anyone-to-Anyone online marketplace for vintners and growers to locate and acquire the raw materials for wine production.
 
       Any size grower or vintner can list grapes, juice and supplies for purchase by any size buyer. Wine producers can sell directly to any size buyer and eliminate or keep track of wine clubs.
 
