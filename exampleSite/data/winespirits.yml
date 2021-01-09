@@ -2,6 +2,13 @@
 service:
   enable: true
   service_item:
+  - title: Retailers and Distributors
+    images: ''
+    content: |-
+      Retailers and Distributors leverage the OrderMatch™ platform to expand sales without increasing the need or costs for stocking, handling and storage. By adding OrderMatch™ software to their current website, retailers and distributors can offer additional products and then arrange shipment directly to the purchaser from the vintner, distiller, or brewery.
+
+      Pricing, shipping, and margins can be facilitated by the software. Administration of invoices and supply chain management can be handled by fewer employees.
+    button: ''
   - title: Investors & Collectors
     images:
     - "/images/undraw_wine_tasting_30vw.svg"
