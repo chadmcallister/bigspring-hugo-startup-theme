@@ -2,21 +2,6 @@
 service:
   enable: true
   service_item:
-  - title: Equipment and Supplies
-    images:
-    - "/images/undraw_two_factor_authentication_namy.svg"
-    content: |-
-      The OrderMatch™ software allows anyone-to-anyone interaction of all participants in a supply chain. Sellers of bottles, corks, labels and all other supplies needed in the beverage industry can become part of the online marketplace just by opening an account and listing their product and the price.
-
-      Production and sales sometimes require specialized equipment or packaging that is not easily accessible or affordable for all volume of producers. OrderMatch Universe™ business model can build an electronic marketplace for purchase, rental and cooperative use of equipment or for recycling of packaging and other supplies.
-    button: ''
-  - title: Retailers and Distributors
-    images: ''
-    content: |-
-      Retailers and Distributors leverage the OrderMatch™ platform to expand sales without increasing the need or costs for stocking, handling and storage. By adding OrderMatch™ software to their current website, retailers and distributors can offer additional products and then arrange shipment directly to the purchaser from the vintner, distiller, or brewery.
-
-      Pricing, shipping, and margins can be facilitated by the software. Administration of invoices and supply chain management can be handled by fewer employees.
-    button: ''
   - title: Investors & Collectors
     images:
     - "/images/undraw_wine_tasting_30vw.svg"
@@ -52,6 +37,21 @@ service:
       enable: false
       label: Check it out
       link: "#"
+  - title: Retailers and Distributors
+    images: ''
+    content: |-
+      Retailers and Distributors leverage the OrderMatch™ platform to expand sales without increasing the need or costs for stocking, handling and storage. By adding OrderMatch™ software to their current website, retailers and distributors can offer additional products and then arrange shipment directly to the purchaser from the vintner, distiller, or brewery.
+
+      Pricing, shipping, and margins can be facilitated by the software. Administration of invoices and supply chain management can be handled by fewer employees.
+    button: ''
+  - title: Equipment and Supplies
+    images:
+    - "/images/undraw_two_factor_authentication_namy.svg"
+    content: |-
+      The OrderMatch™ software allows anyone-to-anyone interaction of all participants in a supply chain. Sellers of bottles, corks, labels and all other supplies needed in the beverage industry can become part of the online marketplace just by opening an account and listing their product and the price.
+
+      Production and sales sometimes require specialized equipment or packaging that is not easily accessible or affordable for all volume of producers. OrderMatch Universe™ business model can build an electronic marketplace for purchase, rental and cooperative use of equipment or for recycling of packaging and other supplies.
+    button: ''
 call_to_action:
   enable: true
   title: Configure your licensing agreement for maximum success?
