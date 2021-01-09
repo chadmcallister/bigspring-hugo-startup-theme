@@ -2,14 +2,6 @@
 service:
   enable: true
   service_item:
-  - title: Test
-    images:
-    - "/images/undraw_empty_cart_co35-1.svg"
-    content: Test
-    button:
-      link: test
-      label: test
-      enable: true
   - title: Investors & Collectors
     images:
     - "/images/undraw_wine_tasting_30vw.svg"
