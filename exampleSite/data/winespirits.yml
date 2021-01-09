@@ -29,10 +29,10 @@ service:
   - title: Equipment & Supplies
     images:
     - "/images/undraw_two_factor_authentication_namy.svg"
-    content: Production and sales sometimes require specialized equipment or packaging
-      that is not easily accessible or affordable for all volume of producers. OrderMatch
-      Universe™ can build an electronic marketplace for purchase, rental and cooperative
-      use of equipment or for recycling of packaging and other supplies.
+    content: |-
+      Distillers of spirits and craft brewers can gain immediate access to a national or international market environment dominated by large brands. OrderMatchTM software creates an online presence for these products and then handles the distribution and payment systems.
+
+      Smaller distillers and brewers are no longer limited to gaining shelf space in distributors or retail stores. With an online marketplace, product can be shipped directly from the production facility to the purchaser.
     button:
       enable: false
       label: Check it out
