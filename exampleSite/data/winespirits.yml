@@ -2,6 +2,10 @@
 service:
   enable: true
   service_item:
+  - title: test
+    images: ''
+    content: test
+    button: ''
   - title: Investors & Collectors
     images:
     - "/images/undraw_wine_tasting_30vw.svg"
