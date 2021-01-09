@@ -13,15 +13,15 @@ service:
       enable: false
       label: More info
       link: "#"
-  - title: Producers & Distributors
+  - title: Vintners & Growers
     images:
     - "/images/undraw_logistics_x4dc.svg"
-    content: 'Vintners and Distillers can source the raw materials and components
-      for production of their wine or spirits. Vintners, Distillers, and Distributors
-      leverage the OrderMatch™ platform for sales, storage, and distribution. Marketplace
-      participants can be any size buyers and sellers at any point in the supply chain.
+    content: |-
+      OrderMatchTM software can create an Anyone-to-Anyone online marketplace for vintners and growers to locate and acquire the raw materials for wine production.
 
-'
+      Any size grower or vintner can list grapes, juice and supplies for purchase by any size buyer. Wine producers can sell directly to any size buyer and eliminate or keep track of wine clubs.
+
+      Various varieties of grapes or juice become easily accessible for quick turnaround during harvest and the marketplace will develop the market pricing. Transactions are anonymous to the participants.
     button:
       enable: false
       label: Check it out
