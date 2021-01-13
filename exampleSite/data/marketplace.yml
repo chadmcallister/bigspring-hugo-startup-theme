@@ -17,7 +17,7 @@ marketplaces:
       depositories and distributors.
   - name: "[Fine Diamonds & Gemstones](/marketplaces/fine-diamonds-and-gemstones/)"
     icon: far fa-gem
-    content: Create an online marketplace for diamond & gemstone investors, jewelers,
+    content: Create an online marketplace for diamond & gemstone investors, gemologists,
       graders and certifiers.
   - name: "[Petrochemicals](/marketplaces/petrochemicals/)"
     icon: fas fa-flask
