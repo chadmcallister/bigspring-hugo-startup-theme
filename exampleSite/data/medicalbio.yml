@@ -23,10 +23,10 @@ service:
       challenges for these startup businesses to get their products to market. Even
       though there are potential investors, access to customers, arranging shipping
       and distribution, and authentication of product continue to challenge this industry.
-      The OrdermatchTM software and OrderMatch UniverseTM business model provide a
-      marketplace where customers can locate products to buy, and sellers can determine
-      regulations for various shipping locations. Authentication can be added to the
-      operation and administration is handled by the software for cost effective operation.
+      The Ordermatch™ software and OrderMatch Universe™ business model provide a marketplace
+      where customers can locate products to buy, and sellers can determine regulations
+      for various shipping locations. Authentication can be added to the operation
+      and administration is handled by the software for cost effective operation.
     button:
       enable: false
       label: Check it out
