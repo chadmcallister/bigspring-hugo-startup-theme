@@ -8,7 +8,7 @@ service:
     content: Olefins include ethylene, propylene and butadiene, the raw materials
       for many plastics. Multiple manufacturers make and store these raw materials.
       Plastic manufacturers employ traders to bid for the raw materials and arrange
-      shipping or storage. OrderMatchTM software can provide a marketplace allowing
+      shipping or storage. OrderMatch™ software can provide a marketplace allowing
       olefin manufacturers to enter prices and plastic manufacturers to enter bids
       to buy. The software conducts a transaction when the buy and sell price match.
       Shipping, storage and payment is arranged by the administrative functions of
