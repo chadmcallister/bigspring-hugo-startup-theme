@@ -17,9 +17,9 @@ service:
     images:
     - images/undraw_code_review_l1q9.svg
     content: Mints, manufacturers, depositories & distributors leverage the OrderMatch™
-      platform to support private sales, storage, and distribution. Marketplace participants
-      can be any size buyers and sellers at any point in the supply chain and are
-      easily managed using the platform.
+      software platform to support private sales, storage, and distribution. Marketplace
+      participants can be any size buyers and sellers at any point in the supply chain
+      and are easily managed using the platform.
     button:
       enable: false
       label: Check it out
