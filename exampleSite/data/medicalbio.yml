@@ -36,7 +36,7 @@ service:
     - "/images/undraw_two_factor_authentication_namy.svg"
     content: In the healthcare industry, both specialized and commodity equipment
       and supplies can experience periods of shortages. In addition, oversupply may
-      occur at individual facilities. The OrderMatchTM software serves as a marketplace
+      occur at individual facilities. The OrderMatch™ software serves as a marketplace
       where medical facilities of all sizes can locate, buy and sell products with
       other participants on a website. The recent pandemic-related need for PPE and
       other supplies demonstrates the need for an easy to access marketplace.
