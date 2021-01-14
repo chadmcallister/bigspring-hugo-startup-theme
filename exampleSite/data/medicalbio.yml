@@ -7,10 +7,10 @@ service:
     - images/undraw_server_cluster_jwwq.svg
     content: Whole blood, platelets, plasma, red and white blood cells, and bone marrow
       have a defined shelf life, but their need is often immediate to solve a medical
-      crisis. Hosting a website using OrderMatchTM software can create a database
-      whereby participants can locate rare blood types and access sources of these
-      products. In addition, suppliers of specialized transfusion and blood processing
-      equipment can participate to make their products readily available.
+      crisis. Hosting a website using OrderMatch™ software can create a database whereby
+      participants can locate rare blood types and access sources of these products.
+      In addition, suppliers of specialized transfusion and blood processing equipment
+      can participate to make their products readily available.
     button:
       enable: false
       label: More info
