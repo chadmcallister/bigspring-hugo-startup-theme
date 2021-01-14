@@ -113,7 +113,8 @@ service:
     images:
     - "/images/undraw_two_factor_authentication_namy.svg"
     content: Combined with a product verification process and the patented business
-      model, the OrderMatch platform supports the most trusted marketplace available.
+      model, the OrderMatch™ software platform supports the most trusted marketplace
+      available.
     button:
       enable: false
       label: Check it out
