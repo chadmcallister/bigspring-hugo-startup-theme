@@ -17,7 +17,7 @@ service:
     images:
     - images/undraw_code_review_l1q9.svg
     content: Firearm and Ammunition manufacturers and distributors leverage the OrderMatch™
-      platform to support private sales, storage, and distribution. Self-directed
+      software platform to support private sales, storage, and distribution. Self-directed
       marketplace participants can be any size buyers and sellers at any point in
       the supply chain and are easily managed using the platform.
     button:
